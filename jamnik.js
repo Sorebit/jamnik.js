@@ -86,8 +86,6 @@ function destroyAllTweets(screen_name){
 				id = data[t].id_str;
 				if(data[t].favorite_count === 0)
 					destroyTweet(id);
-					// console.log(data[t].id + ": " + data[t].favorite_count);
-
 			}
 		});
 	}, 5*1000);
