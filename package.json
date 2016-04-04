@@ -1,0 +1,14 @@
+{
+  "name": "jamnik-andrzeja",
+  "version": "1.0.0",
+  "description": "Twitter proverb bot",
+  "main": "jamnik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Sorebit",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.3"
+  }
+}
