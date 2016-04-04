@@ -18,16 +18,15 @@ function loadLines(filename){
 	return out;
 }
 
-// var dictionary = loadLines('./slownik.txt');
 var przyslowia = loadLines('./przyslowia.txt');
 
 console.log("Done.");
 
 var jamnik = new Twit({
-	consumer_key:         'qc2g7NAunmAatSTkbtte3yuji',
-	consumer_secret:      '5E9BQkgbJjLlEU31CIVkFmggznGka3ivNil8UYmivwRwTfpuT4',
-	access_token:         '713839630702022656-t9FTBtJ4e4KZG6HQEXaRKn2SZwz0p20',
-	access_token_secret:  'chn2t8kRDe1vuBwqYptYv3MM96zFPXQ8Eb5jNQzkmXcTJ',
+	consumer_key:         '',
+	consumer_secret:      '',
+	access_token:         '',
+	access_token_secret:  '',
 	timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
 });
 
@@ -77,7 +76,7 @@ function destroyAllTweets(screen_name){
 			if(err)
 				return handleError(err);
 			console.log("Got timeline of " + screen_name);
-			// console.log(data);
+			// console.log(data);f
 			if(data.length <= 0){
 				console.log("End of timeline.");
 				clearInterval(destroyLoop);
@@ -108,8 +107,8 @@ function randomProverb(){
 		if(i < l1) {
 			if(i == l1 - 1){
 				lastConj = isConjuction(p1[i]);
-				if(p1[i].charAt(p1[i].length-1) == ',')
-					p1[i] = p1[i].substr(0, p1[i].length-2);
+				if(p1[i].charAt(p1[i].length-1) === ',')
+					p1[i] = p1[i].substr(0, p1[i].length-1);
 			}
 
 			out += p1[i] + ' ';
@@ -118,23 +117,29 @@ function randomProverb(){
 			if(i == l1 && isConjuction(word) && lastConj)
 				word = '';
 			if(i == l1 && commaBefore(word) && !lastConj)
+			{
+				if(out.charAt(out.length-1) === ' ')
+					out = out.substr(0, out.length-1);
 				word = ', ' + word;
+			}
 			if(out.charAt(out.length - 1) == ',')
 				out = out.substr(0, out.length-2);
 			out += word + ( (i >= l1 + l2 - 1) ? '' : ' ');
 		}
 	}
-
+	var b = out.indexOf(' ,');
+	if(b >= 0) // Should actually never be true
+		out = out.substr(0, b) + ',' + out.substr(b + 2, out.length);
 	return out;
 }
 
 if(process.argv[2] === 'clear'){
-	console.log('Destroying all tweets...')
+	console.log('Destroying all unfavorited tweets...')
 	destroyAllTweets('dHd1anN0YXJ5');
 } else {
 	console.log("Jamnik wystartował...");
 	setInterval(function(){
 		// console.log(randomProverb());
 		tweet(randomProverb());
-	}, 5*60*1000);
+	}, 10*60*1000);
 }
