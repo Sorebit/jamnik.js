@@ -28,10 +28,10 @@ aptekarska dokładność
 argusowe oczy
 austriackie gadanie
 azjatycki tygrys
-baba - chłop
-baba - grzmot
-baba - jaga
-baba - jędza
+baba chłop
+baba grzmot
+baba jaga
+baba jędza
 babcia klozetowa
 babie lato
 babskie gadanie
