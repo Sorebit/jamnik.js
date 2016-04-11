@@ -24,14 +24,14 @@ var dictionary = loadLines('./dict.txt');
 console.log("Done.");
 
 var jamnik = new Twit({
-	consumer_key:         'Jouycugdc3Ix4RWsyFiCWnZTR',
-	consumer_secret:      '3m0QG9FQ4zwwXVJcyg1pCeiLOyr5eeyBn1eN1bUiLiXOaVaHwb',
-	access_token:         '713839630702022656-SQV1u8Rtkelot1o4akkFsEYB0sW7s98',
-	access_token_secret:  'rXyNqJ9ROWdeXdGD7UDhvT2GBfel0jmuQtA6Q70EzdiLL',
+	consumer_key:         '',
+	consumer_secret:      '',
+	access_token:         '',
+	access_token_secret:  '',
 	timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
 });
 
-jamnik.screen_name = 'dHd1anN0YXJ5';
+jamnik.screen_name = '';
 
 function dateTime() {
   var d = new Date(Date.now() + 1*60*60*1000);  //est timezone
