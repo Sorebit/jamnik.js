@@ -197,7 +197,7 @@ być na noże
 być na plusie
 być na porządku dziennym
 być na rauszu
-być na tapecie[1]
+być na tapecie
 być na wojennej stopie
 być na wylocie
 być nie w sosie
@@ -228,7 +228,8 @@ być za, a nawet przeciw
 być zalanym w pestkę
 było nie było
 cała prawda
-całować się jak z dubeltówki (= całować się z dubeltówki)
+całować się jak z dubeltówki
+całować się z dubeltówki
 cały boży dzień
 cały i zdrowy
 cały wic polega na tym
@@ -318,7 +319,8 @@ co rok prorok
 co tchu
 co z tym fantem zrobić
 coś jest na wodzie pisane
-coś jest palcem po wodzie pisane (= coś jest po wodzie pisane)
+coś jest palcem po wodzie pisane 
+coś jest po wodzie pisane
 coś kogoś ani ziębi, ani grzeje
 coś kogoś pierdoli
 coś komuś wisi i powiewa
@@ -1005,7 +1007,8 @@ lwia część
 łykać łzy
 łysy jak kolano
 macać drób
-maczać palce (maczać w czymś palce)
+maczać palce
+maczać w czymś palce
 madejowe łoże
 majster-klepka
 malować w tęczowych kolorach
@@ -1335,7 +1338,7 @@ nie dawać sobie w kaszę dmuchać
 nie dawać za wygraną
 nie do poznania
 nie grać roli
-nie kijem (go), to pałką
+nie kijem go, to pałką
 nie kiwnąć palcem w bucie
 nie kiwnąć palcem → palcem nie kiwnąć
 nie kleić się
@@ -1391,7 +1394,8 @@ niedzielny kierowca
 niedźwiedzia przysługa
 nieszczęście chodzą parami
 nieść kaganek oświaty
-niezły charakterek ( niezwykły)
+niezły charakterek
+niezwykły charakterek
 niewart funta kłaków
 niewart złamanego grosza
 niewart złamanego szeląga
@@ -2635,7 +2639,8 @@ wieża z kości słoniowej
 więzy krwi
 więź rodzinna
 wilczy bilet
-wilczy głód (wilczy apetyt)
+wilczy głód
+wilczy apetyt
 wilk morski
 wilk w owczej skórze
 wino, kobiety i śpiew
@@ -2703,7 +2708,7 @@ wycisnąć ostatni dech
 wydać na świat
 wygadywać niestworzone rzeczy
 wygarbować skórę
-wyglądać jak kania dżdżu / (daw uglądać jak kania dżdżu)
+wyglądać jak kania dżdżu
 wyglądać jak księżyc w pełni → jak księżyc w pełni
 wyglądać jak dupa zza krzaka
 wyglądać jak pół dupy zza krzaka
@@ -3093,18 +3098,18 @@ Dzieci i ryby głosu nie mają
 Dzień świętego Alojzego przyczynia wina dobrego
 Gadać z nim – to jak plewy młócić
 Gadał dziad do obrazu, a obraz doń ani razu
-Gdy Andrzej (30 XI) się zjawi, to i ziemię postawi
+Gdy Andrzej się zjawi, to i ziemię postawi
 Gdy jeleń wejdzie w moją puszczę, to jeleń mój
 Gdy kota nie ma, myszy harcują
 Gdy kwiecień chmurny, a maj z wiatrami – dobry rok przed nami
 Gdy luty zimny i suchy, sierpień będzie gorący
-Gdy na Wawrzyńca (10 VIII) słota trzyma do Gromnic (2 II) lekka zima
+Gdy na Wawrzyńca słota trzyma do Gromnic lekka zima
 Gdy pada w dniu świętej Anny, pada aż do Zuzanny
 Gdy przyjdzie święty Antoni, znać jabłuszko na jabłoni
 Gdy sierpień wrzos rozwija, jesień krótka, szybko mija
 Gdy się człowiek spieszy, to się diabeł cieszy
 Gdy w sierpniu z północy dmucha, zwykle nastaje posucha
-Gdy Zielona Matka [15 VIII] deszcz przynosi, to zwykle na Narodzenie Matki [8 IX] rosi
+Gdy Zielona Matka deszcz przynosi, to zwykle na Narodzenie Matki rosi
 Gdy na Gromniczną roztaje, rzadkie będą urodzaje
 Gdy po lipcu gorącym sierpień się ochłodzi, zima twarda i z wielkim śniegiem chodzi
 Gdy pszczoła w kwietniu nieruchliwa – wiosna mokra bywa
@@ -3117,7 +3122,7 @@ Gdyby ciocia miała wąsy, byłaby wujaszkiem
 Gdyby kózka nie skakała, toby nóżki nie złamała
 Gdzie cztery nianie, tam dziecko bez nosa
 Gdzie drwa rąbią, tam wióry lecą
-Gdzie dwóch Polaków, tam trzy zdania (opinie)
+Gdzie dwóch Polaków, tam trzy zdania
 Gdzie dwóch się bije, tam trzeci korzysta
 Gdzie głowa rządzi, tam człowiek nie błądzi
 Gdzie moda panią, rozum sługą
@@ -3485,7 +3490,8 @@ Nie pomoże puder, róż, kiedy gęba stara już
 Nie pomoże uczoność, ani nieskończoność, ani fura sprzętu, jak nie ma talentu
 Nie przebieraj panno, żebyś nie przebrała, żebyś za kanarka wróbla nie dostała
 Nie przesadza się starych drzew
-Nie rozdzielaj włosa (zapałki) na czworo
+Nie rozdzielaj włosa na czworo
+Nie rozdzielaj włosa zapałki na czworo
 Nie rzucaj pereł między wieprze
 Nie rzucaj słów na wiatr
 Nie samym chlebem człowiek żyje
@@ -3652,7 +3658,8 @@ Sędzia nie ma być głodny
 Siła złego na jednego
 Siedzieć cicho jak mysz pod miotłą
 Siejesz wiatr – zbierasz burze
-Skąpy (chytry) dwa razy traci
+Skąpy dwa razy traci
+Chytry dwa razy traci
 Skleroza nie choroba tylko nogi bolą
 Skorego konia jeszcze batem pod górę
 Skoro jest tak dobrze, to dlaczego jest tak źle?
@@ -3806,7 +3813,7 @@ W lutym aura burzowa – wiosna rychliwa
 W lutym śnieg i mróz stały, czynią w lecie upały
 W marcu jak w garncu
 W marcu śnieżek sieje, a czasem słonko grzeje
-W Narodzenie Panny Marii (8 XI) pogodnie, będzie tak cztery tygodnie
+W Narodzenie Panny Marii pogodnie, będzie tak cztery tygodnie
 W piątek zły początek
 W starym piecu diabeł pali
 W święty August koniec burz
@@ -3854,7 +3861,7 @@ Zgoda buduje, niezgoda rujnuje
 Ziarnko do ziarnka, aż zbierze się miarka
 Zjedli diabli krowę, niech zjedzą i cielę
 Złe gospodarstwo, gdzie kądziel przewodzi nad mieczem
-Złego diabli nie biorą (nie wezmę)
+Złego diabli nie biorą
 Złej baletnicy szkodzi rąbek przy spódnicy
 Zrób dziś, co masz zrobić jutro
 Zrób komu dobrze, to ci da po ziobrze
@@ -3867,7 +3874,7 @@ Zrób komu dobrze, to ci da po ziobrze
 Żyd żyda, ksiądz księdza o sto mil zwietrzy
 Agnieszka li łaskawa, wkrótce w polu zabawa; Agnieszka li nielusa, jeszcze zimie pokusa
 Agnieszka łaskawa puszcza skowronka z rękawa
-Bartłomiej (ci) zwiastuje, jaka jesień następuje, i czy w przyszłym latku dożyjesz dostatku
+Bartłomiej zwiastuje, jaka jesień następuje, i czy w przyszłym latku dożyjesz dostatku
 Bartłomiej zwiastuje, jaka jesień następuje
 Bartłomieja cały wrzesień naśladuje, i z nim jesień
 Bartłomieja świętego dzień w jakiej zostaje porze, taką jesień bez ochyby daje
@@ -3940,7 +3947,8 @@ Pasuje jak kij do dupy
 Samotny jak palec w dupie
 Swoje – do kupki, czyje – do dupki
 Taki z niego muzykant jak z koziego ogona klarnet, a z koziej dupy trąba
-Wyżej dupy nie przeskoczysz (podskoczysz)
+Wyżej dupy nie przeskoczysz
+Wyżej dupy nie podskoczysz
 Apetyt rośnie w miarę jedzenia
 Bez pracy nie ma kołaczy
 Biednemu zawsze wiatr w oczy
