@@ -12,5 +12,6 @@
   "dependencies": {
     "nodemon": "^1.10.2",
     "twit": "^2.2.3"
-  }
+  },
+  "repository": "https://github.com/Sorebit/jamnik.js"
 }
