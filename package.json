@@ -1,14 +1,16 @@
 {
-  "name": "jamnik-andrzeja",
+  "name": "jamnik.js",
   "version": "1.0.0",
   "description": "Twitter proverb bot",
-  "main": "jamnik.js",
+  "main": "src/jamnik.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/jamnik.js"
   },
   "author": "https://github.com/Sorebit",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^1.10.2",
     "twit": "^2.2.3"
   }
 }

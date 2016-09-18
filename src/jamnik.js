@@ -24,14 +24,14 @@ var dictionary = loadLines('./dict.txt');
 console.log("Done.");
 
 var jamnik = new Twit({
-	consumer_key:         '',
-	consumer_secret:      '',
-	access_token:         '',
-	access_token_secret:  '',
+	consumer_key:         'cFdf58gFVsJgCDXXrPAxo7HdP',
+	consumer_secret:      'XddaaBlJ7CaGCfa3ga3JHXAGbBEcw6A1SBqQP2Ku5zlKW8CHj1',
+	access_token:         '713839630702022656-SQV1u8Rtkelot1o4akkFsEYB0sW7s98',
+	access_token_secret:  'rXyNqJ9ROWdeXdGD7UDhvT2GBfel0jmuQtA6Q70EzdiLL',
 	timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
 });
 
-jamnik.screen_name = '';
+jamnik.screen_name = 'dHd1anN0YXJ5';
 
 function dateTime() {
   var d = new Date(Date.now() + 1*60*60*1000);  //est timezone
@@ -119,7 +119,7 @@ function destroyAllTweets(screen_name){
 
 // Construct a random proverb from 2 of those specified in dictionary
 function randomProverb(){
-	// Get random amount of words from each
+	// Get random lines from dictionary
 	var i1 = rand(0, dictionary.length);
 	var i2 = rand(0, dictionary.length);
 	if(i1 == i2)
@@ -128,11 +128,13 @@ function randomProverb(){
 	var p1 = dictionary[i1].split(' ');
 	var p2 = (dictionary[i2].charAt(0).toLowerCase() + dictionary[i2].substr(1)).split(' ');
 
-	// Append checking for conjuctions and commas
-	var lastConj = false;
+	// Get random amount of words from each
+	var l1 = Math.max(1, rand(2, p1.length - 2));
+	var l2 = Math.max(1, rand(2, p2.length - 2));
+
 	var out = "";
-	var l1 = rand(2, p1.length - 2);
-	var l2 = rand(2, p2.length - 2);
+	var lastConj = false;
+	// Append checking for conjuctions and commas
 	for(var i = 0; i < l1 + l2; ++i){
 		if(i < l1){
 			if(i == l1 - 1){
@@ -158,7 +160,7 @@ function randomProverb(){
 		}
 	}
 	// Add a period just because it looks good
-	if(out.charAt(out.length-1) != '.')
+	if(['.', '?', '!'].indexOf(out.charAt(out.length - 1)) < 0)
 		out += '.';
 	// Trim unwanted spaces
 	while(true){
@@ -242,7 +244,7 @@ if(process.argv.indexOf('clear') >= 0){
 	var tweetLoop = setInterval(function(){
 		// console.log(randomProverb());
 		tweet(randomProverb());
-	}, 5*60*1000);
+	}, 8*60*1000);
 }
 // Track and retweet and follow
 // I don't use this anymore since it can get you blocked if done too aggresively
@@ -260,4 +262,20 @@ if(process.argv.indexOf('egzamin') >= 0){
 // Unfollow
 if(process.argv.indexOf('scrap') >= 0){
 	scrapUnfollowing();
+}
+
+// Poems WIP
+if(process.argv.indexOf('poem') >= 0){
+
+	console.log(randomProverb());
+	console.log("Jamnik Andrzeja");
+	console.log("randomWord()");
+
+	var count = rand(6, 12);
+	for(var i = 0; i < count; ++i){
+		line = randomProverb().toLowerCase();
+		console.log(line);
+	}
+
+	// process.exit();
 }
