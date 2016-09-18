@@ -2,6 +2,10 @@
 
 [Twitter bot](https://twitter.com/dHd1anN0YXJ5/) making up proverbs in polish.
 
+## Usage
+- `npm install` to install dependencies
+- `npm start` to run
+
 ## Highlights
 
 - `Przezorny – w miarę jedzenia.`
