@@ -33,3 +33,7 @@
 - `Lepiej być pięknym i bogatym tak cztery tygodnie.`
 - `Szybka decyzja to nie jedna.`
 - `Póki życia panno, żebyś nie przebrała, żebyś za kanarka wróbla nie dostała.`
+
+### Todo
+- Script for automatically removing tokens before commits
+- Markov chains -> Better proverbs / possibly poetry
