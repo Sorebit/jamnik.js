@@ -8,19 +8,21 @@ const Stream = require('stream');
 const Util = require(__dirname + '/util.js')
 const TweetUtil = require(__dirname + '/tweetUtil.js')
 
-// Dictionary
+
 let dict = [];
 let markov = {};
 let keys = [];
 
-let instream = fs.createReadStream(__dirname + '/../dict.txt');
-let outstream = new Stream;
-let dictLoader = readline.createInterface(instream, outstream);
+// Load dictionary
+let istream = fs.createReadStream(__dirname + '/../assets/dict.txt');
+let ostream = new Stream;
+let dictLoader = readline.createInterface(istream, ostream);
 
 dictLoader.on('line', function(line) {
   dict.push(line);
 });
 
+// Main Twit object
 var jamnik = new Twit({
   consumer_key:         '',
   consumer_secret:      '',
@@ -31,32 +33,34 @@ var jamnik = new Twit({
 
 jamnik.screen_name = 'andrzejamnik';
 
-
 // Greeting
 Util.log('Jamnik Andrzeja');
 
+// Main 
 dictLoader.on('close', function() {
   Util.log('Dictionary loaded.');
   init();
-  Util.log('Chain constructed.');
 
   Util.log("Jamnik wystartował...");
-  
-  // Main tweet loop
-  // var tweetLoop = setInterval(function() {  
-    let res = false;
-    while(!res) {
-      res = generate();
-    }
 
+  // Main tweet loop
+  // var tweetLoop = setInterval(function() {
+    let res = false;
+    while(!res) res = generate();
+    // Uppercase first letter
     let first = res.charAt(0);
     res = first.toLocaleUpperCase() + res.substring(1, res.length);
+    // Dot at the end
+    let last = res.charAt(res.length - 1);
+    if(last !== '?' && last !== '!')
+      res += '.';
+    // Tweet
     Util.log('Trying to tweet ' + '\"' + res + '\"');
     TweetUtil.tweet(jamnik, res);
   // }, 8*60*1000);
 });
 
-// Initialize 
+// Initialize
 function init() {
   // Collect connections
   for(let line = 0; line < dict.length; line++) {
@@ -72,23 +76,29 @@ function init() {
   // Collect possible keys to start with
   for(let key in markov) {
     if(markov[key].constructor === Array) {
+      // Don't take words that lead only to an end
       if(markov[key].length === 1 && markov[key][0] === '') {
         continue;
       }
-      if(key === '–') {
+      // Don't start with a hyphen
+      if(key === '-') {
         continue;
       }
       keys.push(key);
     }
   }
+
+  Util.log('Lookup constructed.');
 }
 
 // Generate tweet
 function generate(prev) {
-
+  // Result is empty if not specified otherwise
   let res = prev || '';
+  // Get random key to begin with
   let act = keys[Math.floor(Math.random() * keys.length)];
 
+  // Markov through
   while(act != '') {
     res += act;
     act = markov[act][Math.floor(Math.random() * markov[act].length)];
@@ -97,18 +107,19 @@ function generate(prev) {
     }
   }
 
-  if(dict.indexOf(res) >= 0) {
-    res = '';
-    return res;
+  // If we recreated a line from the dictionary, throw it away
+  if(!prev && dict.indexOf(res) >= 0) {
+    return '';
   }
 
+  // If word is too short generate more
   if(res.split(' ').length <= 4) {
     res += ' ';
-    // 60% chance to put '-'' between parts
+    // 60% chance to put hyphens between parts
     if(Math.random() < 0.6) {
       res += '- ';
     }
-    res = generate(res); 
+    res = generate(res);
   }
   return res;
 }

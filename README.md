@@ -37,4 +37,3 @@
 ### Todo
 - Script for automatically removing tokens before commits
 - Possibly poetry
-- Better commas and conjunctions
