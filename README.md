@@ -1,6 +1,6 @@
 # Jamnik Andrzeja
 
-[Twitter bot](https://twitter.com/andrzejamnik/) making up proverbs in polish.
+[Twitter bot](https://twitter.com/andrzejamnik/) making up knowlendge in polish.
 
 ## Usage
 - `npm install` to install dependencies
@@ -36,4 +36,5 @@
 
 ### Todo
 - Script for automatically removing tokens before commits
-- Markov chains -> Better proverbs / possibly poetry
+- Possibly poetry
+- Better commas and conjunctions

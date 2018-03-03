@@ -1,28 +1,28 @@
-a nuż, widelec
+a nuż widelec
 achy i ochy
 adwokat Boga
 adwokat diabła
 afera rozporkowa
 agresor komuś się włącza
-albo rybka, albo pipka
-albo rybki, albo akwarium
+albo rybka albo pipka
+albo rybki albo akwarium
 al secco
 alfa i omega
 amator kwaśnych jabłek
 amba komuś odbija
 angielska flegma
 ani ani
-ani be, ani me
-ani be, ani me, ani kukuryku
+ani be ani me
+ani be ani me ani kukuryku
 ani dudu
 ani mru-mru
 ani na jotę
 ani na lekarstwo
 ani w ząb
-ani widu, ani słychu
-Anglik z Kołomyi
-anielska cierpliwość → mieć anielską cierpliwość
-Anioł Pański
+ani widu ani słychu
+anglik z Kołomyi
+anielska cierpliwość
+anioł Pański
 anioł stróż
 aptekarska dokładność
 argusowe oczy
@@ -43,13 +43,13 @@ bać się spojrzeć w oczy
 bać się własnego cienia
 bajka dla grzecznych dzieci
 bajońskie sumy
-baju, baju, będziesz w raju
+baju baju będziesz w raju
 balansować na krawędzi przepaści
 balansować na skraju przepaści
-bananowa republika → republika bananowa
+bananowa republika
 bańka mydlana
 bara bara
-Baranek Boży
+baranek Boży
 barani łeb
 barania głowa
 bawić się czyimś kosztem
@@ -105,7 +105,7 @@ biec świńskim truchtem
 bieda aż piszczy
 bieda z nędzą
 biedny jak mysz kościelna
-biegać jak kot z pęcherzem → jak kot z pęcherzem
+biegać jak kot z pęcherzem
 biegać z kąta w kąt
 blady jak chusta
 blady jak kreda
@@ -123,14 +123,14 @@ bo nie ma dżemu
 bocianie gniazdo
 bogać ta
 bogać tam
-Bogiem a prawdą
+bogiem a prawdą
 bohater dnia
 boje homeryckie
 boki zrywać
 boża krówka
 boże rany
-Bóg jeden wie
-Bóg raczy wiedzieć
+bóg jeden wie
+bóg raczy wiedzieć
 bój się Boga
 brać na ambit
 brać jak za pszenicę
@@ -224,7 +224,7 @@ być w siódmym niebie
 być w swoim żywiole
 być wyjechanym precz
 być wyjechanym prek
-być za, a nawet przeciw
+być za a nawet przeciw
 być zalanym w pestkę
 było nie było
 cała prawda
@@ -271,9 +271,9 @@ chudy jak patyk
 chudy jak szczapa
 chudy jak szkielet
 chuj babski
-chuj bombki strzelił, choinki nie będzie
+chuj bombki strzelił choinki nie będzie
 chuj ci w dupę
-chuj, dupa i kamieni kupa
+chuj dupa i kamieni kupa
 chuj kogoś strzela
 chwyt poniżej pasa
 chyba ty
@@ -290,8 +290,8 @@ cielęcy wiek
 cielęcy zachwyt
 ciemna masa
 ciemno jak w dupie u Murzyna
-ciemno, choć oko wykol
-ciemno, choć w pysk daj
+ciemno choć oko wykol
+ciemno choć w pysk daj
 ciemności egipskie
 ciemny jak tabaka w rogu
 ciepła strawa
@@ -312,16 +312,16 @@ cisza przed burzą
 co do joty
 co łaska
 co ma piernik do wiatraka
-co nagle, to po diable
+co nagle to po diable
 co najmniej
 co nieco
 co rok prorok
 co tchu
 co z tym fantem zrobić
 coś jest na wodzie pisane
-coś jest palcem po wodzie pisane 
+coś jest palcem po wodzie pisane
 coś jest po wodzie pisane
-coś kogoś ani ziębi, ani grzeje
+coś kogoś ani ziębi ani grzeje
 coś kogoś pierdoli
 coś komuś wisi i powiewa
 coś leży na wątrobie
@@ -377,7 +377,7 @@ częstochowski rym
 człowiek dobrej woli
 człowiek starej daty
 człowiek z charakterem
-cztery kąty, a piec piąty
+cztery kąty a piec piąty
 cztery kółka
 cztery litery
 cztery ściany
@@ -390,7 +390,7 @@ czuć się jak ryba w wodzie
 czuć się jak u siebie w domu
 czuć się jak zbity pies
 czuć wilka w życie
-czuć, że coś śmierdzi
+czuć że coś śmierdzi
 czupryna jak u Absalona
 czwarta władza
 czwarty do brydża
@@ -570,12 +570,12 @@ figle-migle
 figo-fago
 fiku-miku
 fora ze dwora
-Ford Karton
+ford Karton
 francuski piesek
 funta kłaków niewarte
-fura, skóra i komóra
+fura skóra i komóra
 gabinet cieni
-gadać, co ślina na język przyniesie
+gadać co ślina na język przyniesie
 gadać od rzeczy
 gadać jak najęty
 gadać jak nakręcony
@@ -647,7 +647,7 @@ hiena cmentarna
 hiobowa wieść
 homerycki śmiech
 hulaj dusza
-i na żagiel, i na parę
+i na żagiel i na parę
 i to by było na tyle
 igrać z ogniem
 igrać ze śmiercią
@@ -667,12 +667,12 @@ iść do łóżka
 iść do ołtarza
 iść do piachu
 iść do ziemi
-iść, dokąd oczy poniosą
-iść, dokąd oczy zaprowadzą
+iść dokąd oczy poniosą
+iść dokąd oczy zaprowadzą
 iść dokądś jak w dym
 iść falą
-iść, gdzie oczy poniosą
-iść, gdzie oczy zaprowadzą
+iść gdzie oczy poniosą
+iść gdzie oczy zaprowadzą
 iść gdzieś całą bandą
 iść jak burza
 iść jak krew z nosa
@@ -705,7 +705,7 @@ iść spać razem z kurami
 iść swoją drogą
 iść śladami kogoś
 iść śladem kogoś
-iść tam, gdzie król piechotą chodzi
+iść tam gdzie król piechotą chodzi
 iść u kogoś na pasku
 iść utartą drogą
 iść w dobre ręce
@@ -717,7 +717,7 @@ iść w pewne ręce
 iść w Polskę
 iść w rozsypkę
 iść w ślady kogoś
-iść w tango → pójść w tango
+iść w tango
 iść w zaparte
 iść w zawody z kimś
 iść własną drogą
@@ -766,8 +766,8 @@ jak krowie na rowie
 jak księżyc w pełni
 jak maku
 jak mrówków
-jak nie urok, to przemarsz wojsk
-jak nie urok, to sraczka
+jak nie urok to przemarsz wojsk
+jak nie urok to sraczka
 jak Pan Bóg stworzył
 jak psu z gardła wyjęty
 jak rak świśnie a ryba piśnie
@@ -781,7 +781,7 @@ jak w chińskim banku
 jak w kurniku
 jak w mordę strzelił
 jak w szwajcarskim banku
-jak w szwajcarskim zegarku → chodzić jak szwajcarski zegarek
+jak w szwajcarskim zegarku
 jak z bicza strzelił
 jak z bicza trzasł
 jak z koziej dupy trąba
@@ -789,13 +789,13 @@ jak za dotknięciem czarodziejskiej różdżki
 jak znalazł
 jak żółw
 jagodzianka na kościach
-jakby chciał, a nie mógł
+jakby chciał a nie mógł
 janusowe oblicze
-Janusowe oblicze
+janusowe oblicze
 jasne jak słońce
 jasno jak na dłoni
 jaś wędrowniczek
-jazda na gapę → na gapę
+jazda na gapę
 jebać po oczach
 jechać na jednym wózku
 jechać na ręcznym
@@ -821,7 +821,7 @@ kamień węgielny
 kaszka z mlekiem
 kawa na ławę
 kawał z brodą
-każda droga dobra, bo do ludzi prowadzi
+każda droga dobra bo do ludzi prowadzi
 ki czort
 ki diabeł
 kielich goryczy
@@ -863,7 +863,7 @@ komuś odbiła szajba
 komuś odjęło rozum
 komuś otwiera się nóż w kieszeni
 koncert życzeń
-konia z rzędem temu, kto
+konia z rzędem temu kto
 konia z rzędem temu
 koniec świata
 konik polny
@@ -907,7 +907,7 @@ krok za krokiem
 krokodyle łzy
 kropka w kropkę
 kropla w morzu
-kropla, która przepełnia czarę
+kropla która przepełnia czarę
 król strzelców
 król zwierząt
 królik doświadczalny
@@ -943,7 +943,7 @@ kwarcowe kocie oko
 kwiatek do kożucha
 kwietno niedziela
 lać jak z cebra
-lać krokodyle łzy → krokodyle łzy
+lać krokodyle łzy
 lać łzy
 lać oliwę na wzburzone fale
 lać oliwę na wzburzone morze
@@ -1023,7 +1023,7 @@ marzenie ściętej głowy
 masło maślane
 masz babo placek
 maślane oczy
-Matki Boskiej Pieniężnej
+matki Boskiej Pieniężnej
 mądry Polak po szkodzie
 mecz o pietruszkę
 medal ma dwie strony
@@ -1074,7 +1074,7 @@ mieć kogoś dość
 mieć kogoś powyżej uszu
 mieć kogoś w garści
 mieć kogoś
-mieć końskie zdrowie → końskie zdrowie
+mieć końskie zdrowie
 mieć kuku na muniu
 mieć lepkie ręce
 mieć łeb jak sklep
@@ -1156,7 +1156,7 @@ mieć związane ręce
 mieć żelazny charakter
 mieszać z błotem
 mieszkać kątem
-między bajki włożyć → włożyć między bajki
+między bajki włożyć
 między Bogiem a prawdą
 między młotem a kowadłem
 między Scyllą a Charybdą
@@ -1186,7 +1186,7 @@ mokry sen
 moralność Kalego
 morda w kubeł
 morzyć głodem
-mowa lakoniczna → lakoniczna mowa
+mowa lakoniczna
 mowy nie ma
 można nim żaby miśkować
 mól książkowy
@@ -1200,7 +1200,7 @@ mówić pod nosem
 mówić prawdę w oczy
 mówić prosto w oczy
 mówić trzy po trzy
-mówić, co ślina na język przyniesie
+mówić co ślina na język przyniesie
 mrozić krew w żyłach
 mrożący krew w żyłach
 mucha nie siada
@@ -1241,7 +1241,7 @@ na hura
 na jednej nodze
 na jedno kopyto
 na jeża
-na końcu języka → mieć na końcu języka
+na końcu języka
 na krechę
 na kreskę
 na krzywy ryj
@@ -1274,7 +1274,7 @@ na wariackich papierach
 na własną prośbę
 na własną rękę
 na własny rachunek
-na wojennej stopie → być na wojennej stopie
+na wojennej stopie
 na wołowej skórze by nie spisał
 na wszelki wypadek
 na wyciągnięcie ręki
@@ -1321,15 +1321,15 @@ nawiasem mówiąc
 nazywać rzeczy po imieniu
 ni chu chu
 ni chuja
-ni pies, ni wydra
-ni przypiął, ni przyłatał
-ni rak, ni ryba
-ni w pięć, ni w dziewięć
-ni w pizdę, ni w oko
+ni pies ni wydra
+ni przypiął ni przyłatał
+ni rak ni ryba
+ni w pięć ni w dziewięć
+ni w pizdę ni w oko
 ni w ząb
-ni z gruchy, ni z pietruchy → ni z gruszki, ni z pietruszki
-ni z gruszki, ni z pietruszki
-ni z pierza, ni z mięsa
+ni z gruchy ni z pietruchy
+ni z gruszki ni z pietruszki
+ni z pierza ni z mięsa
 nić Ariadny
 nie bez kozery
 nie cierpieć zwłoki
@@ -1338,9 +1338,9 @@ nie dawać sobie w kaszę dmuchać
 nie dawać za wygraną
 nie do poznania
 nie grać roli
-nie kijem go, to pałką
+nie kijem go to pałką
 nie kiwnąć palcem w bucie
-nie kiwnąć palcem → palcem nie kiwnąć
+nie kiwnąć palcem
 nie kleić się
 nie ma chuja
 nie ma chuja we wsi
@@ -1408,7 +1408,7 @@ nogi odmawiają komuś posłuszeństwa
 nogi same kogoś niosą
 nosić spodnie
 nowa miotła
-Nowy Świat
+nowy Świat
 nóżki na stół
 nudny jak flaki z olejem
 nudzić się jak mops
@@ -1420,8 +1420,8 @@ o mały włos
 o rzut kamieniem
 o suchym pysku
 o wilku mowa
-o wilku mowa, a wilk tu
-o wilku mowa, a wilk tuż
+o wilku mowa a wilk tu
+o wilku mowa a wilk tuż
 o włosek nie poszedł do Abrama
 obchodzić prawo
 obejść prawo
@@ -1530,14 +1530,14 @@ odwalić kitę
 odwracać kota ogonem
 ofiara losu
 ogłupieć na całki łeb
-oj tam, oj tam
-aj tam, aj tam
+oj tam oj tam
+aj tam aj tam
 ojciec chrzestny
 okaz muzealny
 okno na świat
 oko cyklonu
 oko w oko
-oko za oko, ząb za ząb
+oko za oko ząb za ząb
 olimpijski spokój
 omijać szerokim łukiem
 opić się jak bąk
@@ -1616,7 +1616,7 @@ patrzeć z góry
 pawie oczka
 pchać się jak świnia do koryta
 pchli targ
-pchnąć na ulicę → wygnać na ulicę
+pchnąć na ulicę
 pękać w szwach
 pękać ze śmiechu
 pępek świata
@@ -1645,7 +1645,7 @@ pies z kulawą nogą nie zajrzy
 pieskie życie
 pięta Achillesa
 pięta achillesowa
-piętno kainowe → kainowe piętno
+piętno kainowe
 pijane dzieci we mgle
 pijane dziecko we mgle
 pijany jak bela
@@ -1662,13 +1662,13 @@ pisz do mnie na Berdyczów
 piździ jak w Kieleckiem
 plaga egipska
 pleść androny
-pleść, co ślina na język przyniesie
+pleść co ślina na język przyniesie
 pleść jak Piekarski na mękach
 pleść niestworzone rzeczy
 pleść od rzeczy
 pleść trzy po trzy
 pluć sobie w brodę
-plus dodatni, plus ujemny
+plus dodatni plus ujemny
 płacz i zgrzytanie zębów
 płakać jak bóbr
 płakać jak dziecko
@@ -1719,7 +1719,7 @@ podawać w wątpliwość
 podciąć skrzydła
 podciągać pod jeden strychulec
 podciągnąć pod jeden strychulec
-podcinać gałąź, na której się siedzi
+podcinać gałąź na której się siedzi
 podgrzewać atmosferę
 podkasana muza
 podłożyć świnię
@@ -1940,11 +1940,11 @@ reakcja łańcuchowa
 republika bananowa
 ręce opadają
 ręka w rękę
-ręka, noga, mózg na ścianie
+ręka noga mózg na ścianie
 robić balona
 robić bokami
 robić bydło
-robić coś na jedno kopyto → na jedno kopyto
+robić coś na jedno kopyto
 robić coś sobie a muzom
 robić do kogoś słodkie oczka
 robić dobrą minę do złej gry
@@ -2003,7 +2003,7 @@ rozbój na równej drodze
 rozbój w biały dzień
 rozdzierać szaty
 rozebrać się do rosołu
-rozmowa w cztery oczy → w cztery oczy
+rozmowa w cztery oczy
 rozmieniać się na drobne
 rozpędzić na cztery wiatry
 rozgonić na cztery wiatry
@@ -2014,7 +2014,7 @@ róg Amaltei
 róg obfitości
 równy chłop
 róża herbaciana
-różowe okulary → patrzeć przez różowe okulary
+różowe okulary
 ruski miesiąc
 ruski rok
 ruszać się jak mucha w smole
@@ -2028,7 +2028,7 @@ rwać parkiet
 rwać włosy z głowy
 rychło w czas
 rycząca czterdziestka
-rym częstochowski → częstochowski rym
+rym częstochowski
 rym kalwaryjski
 ryzyk-fizyk
 rzecz gustu
@@ -2052,7 +2052,7 @@ salomonowa mądrość
 salomonowy wyrok
 samotny jak kołek w płocie
 sam jak palec
-sam tego chciałeś, Grzegorzu Dyndało
+sam tego chciałeś Grzegorzu Dyndało
 samarytańska przysługa
 samemu sobie kopać grób
 samochód-pułapka
@@ -2077,7 +2077,7 @@ serce się kraje
 serce się wyrywa
 serce z kamienia
 serce zamarło
-sezamie, otwórz się
+sezamie otwórz się
 sezon ogórkowy
 sędzia kalosz
 siać ferment
@@ -2122,7 +2122,7 @@ wracać pamięcią
 sięgać po cudze
 siła wyższa
 siostry syjamskie
-siódma woda po kisielu → dziesiąta woda po kisielu
+siódma woda po kisielu
 siódme poty biją
 sita-barana
 siu-bziu
@@ -2172,12 +2172,12 @@ słowo w słowo
 słuchać jak bajki o żelaznym wilku
 słuchać jak świnia grzmotu
 słuchać jednym uchem
-słuchać jednym uchem, a drugim wypuszczać
+słuchać jednym uchem a drugim wypuszczać
 słyszeć jak trawa rośnie
 smalić cholewki
 snuć opowieść
 sobota wygląda spod niedzieli
-Sodoma i Gomora
+sodoma i Gomora
 sokole oko
 sokoli wzrok
 sondować wzrokiem
@@ -2203,7 +2203,7 @@ spalić się ze wstydu
 spalić za sobą mosty
 spartańskie warunki
 spartańskie wychowanie
-spaść jak manna z nieba → manna z nieba
+spaść jak manna z nieba
 spaść jak kot na cztery łapy
 spaść na cztery łapy
 spaść na czyjeś barki
@@ -2225,7 +2225,7 @@ dłonie
 spłynąć krwią
 spływać krwią
 spływać jak po kaczce
-spływać jak po psie → coś spływa po kimś jak po psie
+spływać jak po psie
 spocić się jak mysz
 spocić się jak ruda mysz
 spocić się jak mysz w połogu
@@ -2290,7 +2290,7 @@ stara śpiewka
 starać się o rękę
 stare kąty
 stary jak świat
-stary, ale jary
+stary ale jary
 stawać na głowie
 stawać na nogi
 stawać na rzęsach
@@ -2320,7 +2320,7 @@ stroić fochy
 stroić fumy
 stroić muki
 stroić się w cudze piórka
-strój adamowy → w stroju adamowym
+strój adamowy
 stróż bezpieczeństwa
 strugać durnia
 strugać wariata
@@ -2335,7 +2335,7 @@ strzelić z rogala
 strzępić jęzor
 strzępić sobie język
 stuku-puku
-suknia Dejaniry → koszula Dejaniry
+suknia Dejaniry
 suszyć komuś głowę
 suszyć zęby
 swoją drogą
@@ -2424,14 +2424,14 @@ tajemnica poliszynela
 tak czy owak
 taka owaka
 tam i nazad
-tam, gdzie diabeł mówi dobranoc
-tam, gdzie król piechotą chodzi
+tam gdzie diabeł mówi dobranoc
+tam gdzie król piechotą chodzi
 taniec świętego Wita
 tańczyć po łacinie
 tarzać się ze śmiechu
 tata z mamą
 ten sam
-tere-fere kuku, strzela baba z łuku
+tere-fere kuku strzela baba z łuku
 tere-fere kuku
 tkwić po uszy w gównie
 tkwić po szyję w gównie
@@ -2471,7 +2471,7 @@ trup ściele się gęsto
 trząść portkami
 trząść się jak galareta
 trząść się jak osika
-Trzeci Świat
+trzeci Świat
 trzeźwy jak świnia
 trzymać dwie sroki za ogon
 trzymać język za zębami
@@ -2487,7 +2487,7 @@ tuż-tuż
 twarda sztuka
 twardy orzech do zgryzienia
 twarzą w twarz
-tyle, co kot napłakał
+tyle co kot napłakał
 typ spod ciemnej gwiazdy
 ubaw po pachy
 uboga krewna
@@ -2503,7 +2503,7 @@ uderzać w czułą strunę
 uderzać w kimono
 uderzyć w kimono
 uderzyć w płacz
-udowadniać, że nie jest się wielbłądem
+udowadniać że nie jest się wielbłądem
 udzielna księżna
 udzielny książę
 ugasić pragnienie
@@ -2597,13 +2597,13 @@ walić konia
 walić na chatę
 walić ściemę
 walić w chuja
-walić z grubej rury → z grubej rury
+walić z grubej rury
 walka z wiatrakami
 wąchać kwiatki od spodu
 wbić nóż w plecy
 wbić zęby w ścianę
 wchodzić na grząski grunt
-wchodzić oknem, nie drzwiami
+wchodzić oknem nie drzwiami
 wchodzić w grę
 wchodzić w życie
 wcisnąć gaz do dechy
@@ -2623,10 +2623,10 @@ wiązać stułą
 wić się jak piskorz
 widzieć białe myszki
 widzieć coś w różowych barwach
-widzieć źdźbło w oku bliźniego, a belki we własnym nie widzieć
-Wieczne Miasto
-wiedzieć, co w trawie piszczy
-wiedzieć, skąd wiatr wieje
+widzieć źdźbło w oku bliźniego a belki we własnym nie widzieć
+wieczne Miasto
+wiedzieć co w trawie piszczy
+wiedzieć skąd wiatr wieje
 wielki ekran
 wielkie serce
 wierny jak pies
@@ -2643,7 +2643,7 @@ wilczy głód
 wilczy apetyt
 wilk morski
 wilk w owczej skórze
-wino, kobiety i śpiew
+wino kobiety i śpiew
 wisieć i powiewać
 wisieć na telefonie
 wisielczy humor
@@ -2654,7 +2654,7 @@ własną piersią
 włazić w dupę
 włazić z butami do duszy
 włożyć w usta słowa
-włożyć całą duszę, włożyć serce
+włożyć całą duszę włożyć serce
 włożyć między bajki
 włożyć mundur
 woda kwiatowa
@@ -2694,7 +2694,7 @@ wtrącać swoje trzy grosze
 wujek Czesiek
 wujek Google
 wulkan energii
-wybałuszać oczy, wybałuszyć oczy
+wybałuszać oczy wybałuszyć oczy
 wybić z głowy muki
 wybór między dżumą a cholerą
 wychodzić za mąż
@@ -2709,7 +2709,7 @@ wydać na świat
 wygadywać niestworzone rzeczy
 wygarbować skórę
 wyglądać jak kania dżdżu
-wyglądać jak księżyc w pełni → jak księżyc w pełni
+wyglądać jak księżyc w pełni
 wyglądać jak dupa zza krzaka
 wyglądać jak pół dupy zza krzaka
 wyglądać jak półdupek zza krzaka
@@ -2742,18 +2742,18 @@ wylewać łzy
 wyłazić z papci
 wyłazić ze skóry
 wyłożyć kawę na ławę
-wypchnąć na ulicę → wygnać na ulicę
+wypchnąć na ulicę
 wymyślać od najgorszych
 wymyślać od ostatnich
 wypędzić muki
 wypieki na policzkach
-wypisz, wymaluj
+wypisz wymaluj
 wyprowadzić z równowagi
 wypruwać sobie flaki
 wypruwać sobie żyły
 wyrzucać pieniądze przez okno
 wyrzucać pieniądze w błoto
-wyrzucić na ulicę → wygnać na ulicę
+wyrzucić na ulicę
 wyskoczyć jak filip z konopi
 wyskoczyć z papci
 wyssać z mlekiem matki
@@ -2771,7 +2771,7 @@ wzdłuż i wszerz
 wziąć byka za rogi
 wziąć dupę w troki
 wziąć na luz
-wziąć nogi za pas → brać nogi za pas
+wziąć nogi za pas
 wziąć pod swoje skrzydła
 wziąć się w garść
 wziąć się z czymś za bary
@@ -2782,7 +2782,7 @@ wzruszać ramionami
 wzruszyć ramionami
 z całego serca
 z czym to się je
-z deszczu pod rynnę → wpaść z deszczu pod rynnę
+z deszczu pod rynnę
 z dobrej i nieprzymuszonej woli
 z dokładnością do
 z dupy
@@ -2800,7 +2800,7 @@ z poważaniem
 z prądem
 z przymrużeniem oka
 z ręką na sercu
-z tyłu liceum, z przodu muzeum
+z tyłu liceum z przodu muzeum
 z zamkniętymi oczami
 z zapałem neofity
 z zapartym tchem
@@ -3004,1070 +3004,1070 @@ zwracać się do kogoś
 żywiciel rodziny
 żywy towar
 żywy trup
-A co po czyjej wielkości, jak nie ma w głowie mądrości
-A kto z nami nie wypije – tego we dwa kije
-Aby do wiosny!
-Adam cóż by poradził, gdyby Bóg w raju Ewy nie posadził
-Adwokat niech głowę, a koń niech ma nogi
-Afekty, chociaż będą święte, rozumem mają być ujęte
-Aksamity, atłasy sławy nie czynią
-Albo rybki, albo akwarium
-Ambroży w grudniu uprawia ugory
-Ani Antoni na morzu wiatru nie dogoni
-Ani w Boga wierzy, ani się diabła boi
-Aniołowie pijanych na rękach swych noszą
-Apetyt rośnie w miarę jedzenia
-Apostoł ludzkości rzadko pości
-Atak jest najlepszą obroną
-Bez matki nie ma chatki
-Będą takie mrozy, że przymarznie cap do kozy
-Biedny kupuje jedną kapotę, ale na całe życie
-Bierz nogi za pas, póki jeszcze czas
-Bogatemu to i byk się ocieli
-Bo pić trzeba umieć
-Brał i Napoleon czasem po tabinkach
-Budować zamki na lodzie
-Bujać to las, ale nie nas!
-Byłoby dłuższe lato, gdyby nie zima
-Byś zupełnie był mądry, wiek ci nie wystarczy
-Chcesz być bogatym, bądź siedem lat świnią
-Chcesz się dowiedzieć prawdy o sobie, pokłóć się z przyjacielem
-Chłop robotny i baba pyskata zawojują pół świata
-Choćby i najtęższa zima – tylko do wiosny trzyma
-Choćbyś miał złota skrzynie, śmierci się nie wywiniesz
-Choćbyś uciekał przez góry, las – śmierć do ciebie zdąży na czas
-Chodź chlebie, zjem ciebie
-Chrzest polewaj wodą, wesele – wódką, a pogrzeb – płakaniem
-Chyba kończy się świat – świnia z pastuchem za pan brat!
-Ciasno w głowie, przestronno w gębie
-Ciemnota – gorsza od zbrodni
-Co Cię nie zabije, to Cię wzmocni
-Co dwie głowy, to nie jedna
-Co głupi straci, tym się mądry wzbogaci
-Co jeden polepszy, to drugi popieprzy
-Co jeden rok płaci, to drugi rok traci
-Co jedna głowa wymyśli, to druga odmyśli
-Co jednemu swawola, to drugiemu niewola
-Co komu pisane, to go nie minie
-Co lato odkłada, to zima przejada
-Co łysemu po grzebieniu!?
-Co ma piernik do wiatraka?
-Co nie siłą, to rozumem
-Co powiesz w sekrecie, to wiedzą w całym powiecie
-Co się nie najesz, to się i nie naliżesz
-Co się źle zaczyna, to się dobrze kończy
-Co w czyim sercu na dnie, to wódka wywiedzie snadnie
-Co w kobiecym sercu na dnie, to i diabeł nie odgadnie
-Co za dużo – to niezdrowo
-Co zaszkodziło, to nauczyło
-Co zima przychłodzi, lato wynagrodzi
-Cymbał – im puściejszy w środku – tym głośniej dzwoni
-Czapka na uchu, a wesz na brzuchu
-Czego nie można zmienić, to trzeba polubić
-Czego się Jaś nie nauczy, Jan nie będzie umiał
-Czego się nauczymy, tego nam nikt nie wydrze
-Czego wiosna nie zasiała – jesień nie urodzi
-Człek zdechnie, a robota zostanie
-Człowiek dla drugich ma rozum, a dla siebie głupi
-Człowiekowi w życiu nie potrzeba więcej: serce do kochania, rozum do myślenia i do pracy ręce
-Czuć się jak ryba w wodzie
-Czyja kosa pierwsza, tego miedza szersza
-Czyj nasiew tego plon
-Czyja rola, tego wola
-Czy się stoi, czy się leży – jakaś forsa się należy
-Czy to z góry, czy pod górę – furman patrzy w końską dziurę
-Deszcze listopadowe budzą wiatry grudniowe
-Dla chcącego nic trudnego
-Dla głupiego każdy dzień święto
-Dlatego dwie uszy, jeden język dano, iżby mniej mówiono, a więcej słuchano
-Długa do mądrości droga przez nauki, krótsza przez przykłady
-Do ludzi po naukę, do matki po koszulę
-Do Rzymu przez Krym
-Dobra głupiemu rada – mądrego z głupim zwada
-Dobra gospodyni – dom wesołym czyni
-Dobre wychowanie – wrócić rano na śniadanie
-Dobry chleb i z ości, jak się kto przepości
-Dobry początek to połowa roboty
-Dobry zwyczaj – nie pożyczaj, jak oddaje, jeszcze łaje
-Dobry zwyczaj – nie pożyczaj, jeszcze lepszy – nie oddawaj
-Drzewa umierają stojąc
-Drzwi mogą być albo otwarte, albo zamknięte; trzeciej możliwości nie ma
-Dwóch głupich: jeden, co daje, drugi, co nie bierze
-Dziad jak odżyje, to Cię torbą zabije
-Dzieci i ryby głosu nie mają
-Dzień świętego Alojzego przyczynia wina dobrego
-Gadać z nim – to jak plewy młócić
-Gadał dziad do obrazu, a obraz doń ani razu
-Gdy Andrzej się zjawi, to i ziemię postawi
-Gdy jeleń wejdzie w moją puszczę, to jeleń mój
-Gdy kota nie ma, myszy harcują
-Gdy kwiecień chmurny, a maj z wiatrami – dobry rok przed nami
-Gdy luty zimny i suchy, sierpień będzie gorący
-Gdy na Wawrzyńca słota trzyma do Gromnic lekka zima
-Gdy pada w dniu świętej Anny, pada aż do Zuzanny
-Gdy przyjdzie święty Antoni, znać jabłuszko na jabłoni
-Gdy sierpień wrzos rozwija, jesień krótka, szybko mija
-Gdy się człowiek spieszy, to się diabeł cieszy
-Gdy w sierpniu z północy dmucha, zwykle nastaje posucha
-Gdy Zielona Matka deszcz przynosi, to zwykle na Narodzenie Matki rosi
-Gdy na Gromniczną roztaje, rzadkie będą urodzaje
-Gdy po lipcu gorącym sierpień się ochłodzi, zima twarda i z wielkim śniegiem chodzi
-Gdy pszczoła w kwietniu nieruchliwa – wiosna mokra bywa
-Gdy Trzej Królowie ciepłem darzą, gospodarze o wiośnie gwarzą
-Gdy Wielki Piątek ponury, Wielkanoc bez chmury
-Gdy wrzesień bez deszczów będzie, w zimie wiatru pełno wszędzie
-Gdyby babcia miała drucik, to by było radio
-Gdyby babcia miała wąsy, to by była dziadkiem
-Gdyby ciocia miała wąsy, byłaby wujaszkiem
-Gdyby kózka nie skakała, toby nóżki nie złamała
-Gdzie cztery nianie, tam dziecko bez nosa
-Gdzie drwa rąbią, tam wióry lecą
-Gdzie dwóch Polaków, tam trzy zdania
-Gdzie dwóch się bije, tam trzeci korzysta
-Gdzie głowa rządzi, tam człowiek nie błądzi
-Gdzie moda panią, rozum sługą
-Gdzie moda w mowie, tam pustka w głowie
-Gdzie są mądrzy, tam muszą być i mędrkowie
-Gdzie siła głów do rady i siła rąk do wykonania, tam sprawy oporem idą
-Gdzie siła włada – rozumu „nie nada”
-Gdzie Słowianin, tam i pieśni
-Głaszcz chama, to Cię kopnie Kopnij chama, to Cię pogłaszcze
-Głowa warta kapelusza, a kapelusz wart niewiele
-Głową ludzie i rządy stoją
-Głowy się trzymaj, byś nie stracił głowy
-Głupcy wiążą węzły, a mędrcy je rozwiązują
-Głupi a mocny bywa owocny
-Głupi marzy o bogactwie, a mądry o szczęściu
-Głupi nie jest ten, co się głupim robi, ale ten, co swojej roboty nie umie dobrze przedstawić
-Głupi, jak chce kogo pochwalić, jeszcze zgani
-Głupiec głową naprzód wszędzie wpada
-Głupiec głupca, a diabeł diabła chwali
-Głupiego i bieda nie nauczy rozumu
-Głupota ludzka nie ma granic
-Gorzkie lekarstwo słodko leczy
-Gość w domu – baba w ciąży
-Groźniejsze jest wojsko jeleni przy lwie hetmanie niż wojsko lwów przy hetmanie jeleniu
-Grzmot listopada dużo zboża zapowiada
-Hulaj dusza, piekła nie ma
-Hulaj duszo, piekło gore!
-Hulaj, duszo, pókiś młoda
-Husarz prosi Boga o wojnę, a lekarz o febrę
-I ja waść, i ty waść, a kto będzie świnie paść?
-I koń hardo stąpa, gdy w bogatym rzędzie
-I kwaśne jabłko robak toczy
-I na równej drodze można się potknąć
-I prosię, jak młode, to ładne
-Im dalej w las, tym więcej drzew
-Im dąb starszy, tym korzeń twardszy
-Im bucik starszy, tym bardziej nosa zadziera!
-Im kto mniej wart, tym wyżej głowę nosi
-Im kto więcej ma, tym więcej chce
-Im mniej wiesz, tym spokojniej śpisz
-Im pies mniej szczeka, tym bardziej gryzie
-Im więcej w grudniu pogody, tym więcej wiosną wody
-Im wyżej siedzisz, z tym większym hukiem zlecisz
-Idzie luty, podkuj buty
-Jajko mądrzejsze od kury
-Jak baba zechce, to da i przez dziurkę od klucza
-Jak Bóg zagrzmi, to chłop do pacierza
-Jak Cię widzą, tak Cię piszą
-Jak gospodarz gościnny, to i ściany się rozszerzają
-Jak kamień w wodę
-Jak krew w piach
-Jak Kuba Bogu, tak Bóg Kubie
-Jaka marchew, taka nać – taka córka jaka mać, jakie drzewo, taki klin – jaki ojciec, taki syn
-Jak masz cug, a nie masz ciągu – popij czystej z wodociągu
-Jak na świętego Antoniego chmurki, to z ziemniakami na górki
-Jak nie ma panny Marianny, dobra i Maryśka
-Jak pies je, to nie szczeka bo mu miska ucieka
-Jak się cenisz, tak Cię cenią
-Jak się chce psa uderzyć, kij się znajdzie
-Jak się człowiek śpieszy, to się diabeł cieszy
-Jak się matka z córką zgłosi, tak się koniec grudnia nosi
-Jak się nie ma co się lubi, to się lubi co się ma
-Jak się powiedziało „a”, pora powiedzieć „b”
-Jak sobie pościelesz, tak się wyśpisz
-Jak spadać – to z dobrego konia
-Jak suka nie da, to pies nie weźmie
-Jak trwoga, to do Boga
-Jak ty komu, tak on tobie
-Jak wilk komarowi pomoże, to komar i konia zmoże
-Jak za króla Sasa Jedz, pij i popuszczaj pasa
-Jaka matka, taka natka
-Jaka głowa, taka mowa
-Jaka praca, taka płaca
-Jaka ziemia, taka góra, jaka matka, taka córa
-Jakie drzewo, taki klin, jaki ojciec, taki syn
-Jakie jabłko, taka skórka, jaka matka, taka córka
-Jakie pytanie, taka odpowiedź
-Jakie „Szczęść Boże”, takie „Bóg zapłać”
-Jakie życie, taka śmierć
-Jaki korzeń, taka nać, taka córka, jaka mać
-Jaki pan, taki kram
-Jeden byka doi, drugi sito podstawia!
-Jedna jaskółka wiosny nie czyni
-Jednym uchem wchodzi, a drugim wychodzi
-Jesień tego nie zrodzi, czego wiosna nie zasiała
-Jeszcze się taki nie urodził, co by każdemu dogodził
-Jeśli moje zdanie, dobrze mówisz, Janie
-Jeśli nie potrafisz, nie pchaj się na afisz
-Jeśli wejdziesz miedzy wrony, musisz krakać jak i one
-Jeżeli pszczoła w styczniu z ula wylatuje, rzadko pomyślny rok nam obiecuje
-Kapelusik z piórami, a wszy wyłażą dziurami
-Kapelusz sombrero, a w kieszeni zero
-Karp – ryba, jeleń – zwierzyna
-Kawałek chleba nie spadnie z nieba – pracą na niego zarobić trzeba
-Każda broń palna raz do roku strzela sama
-Każda krowa swoje cielę liże
-Każde błoto ma swego diabła
-Każde grabie do siebie grabią
-Każdy jest kowalem swego losu
-Każdy kij ma dwa końce
-Każdy kogut na swych śmieciach śmielszy
-Każdy ma to, na co sobie zasłużył
-Każdy się drapie, gdzie go świerzbi
-Kiedy Pan Bóg zamyka wszystkie drzwi, zawsze zostawia jakieś uchylone okno
-Kiedy styczeń najmroźniejszy, wtedy roczek najpłodniejszy
-Kiedy w styczniu lato, w lecie zima za to
-Kląć jak szewc
-Kłamstwo ma krótkie nogi
-Kobiety płaczą przed ślubem, a mężczyźni po ślubie
-Kochajmy się jak bracia, liczmy się jak Żydzi
-Kochanego ciała nigdy za wiele
-Kochanie gorzej jak więzienie: z więzienia wyzwolą, z kochania nie zdolą
-Kogo nie boli, temu powoli
-Kogo Pan Bóg chce zgubić, temu najpierw rozum odbiera
-Kogo Pan Bóg kocha, temu krzyżyk daje
-Kogut myślał o niedzieli, a w sobotę łeb ucięli
-Kombinuje jak koń pod górę
-Komu księżyc świeci, temu i gwiazdy błyszczą
-Komu w drogę, temu czas
-Koniec języka za przewodnika
-Kowal zawinił, cygana powiesili
-Kruk krukowi oka nie wykole
-Krowa, która dużo ryczy, mało mleka daje
-Krzykiem skrzypiec nie nastroisz
-Kto chleba nie chce, nie wart i kołacza
-Kto daje i odbiera, ten się w piekle poniewiera
-Kto do ciebie z kamieniem – ty do niego z chlebem
-Kto gardzi chlebem, nie będzie miał i bułki
-Kto nie ma nic, nie ma nic do stracenia
-Kto nie pracuje ten nie je
-Kto nie widział ołtarza, i piecu się kłania
-Kto nie winien – ten się bać nie powinien, kto nabroił – niech się boi
-Kto nigdy głodu nie czuje, temu i nie smakuje
-Kto ma dużo roli – ten się najada do woli, kto ma mórg niewiele – temu głód przyjacielem
-Kto ma księdza w rodzie, tego bieda nie ubodzie
-Kto ma morgi, krowy, świnie, tego zawsze głód ominie
-Kto ma pobrzękacze, ma i posługacze
-Kto ma pszczoły ten ma miód, kto ma dzieci ten ma smród
-Kto ma wioski, ma troski
-Kto ma złota worek, przed tym wszystkie drzwi otworem
-Kto mieczem wojuje, ten od miecza ginie
-Kto na końcu wygrywa, bierze pieniądze
-Kto nie skropił chleba łzami nie będzie miał apetytu
-Kto nie skropił chleba potem nie będzie miał apetytu
-Kto pierwszy ten lepszy
-Kto po wódce wylewny, u tego sekret niepewny
-Kto pod kim dołki kopie, ten sam w nie wpada
-Kto pyta, ten nie błądzi
-Kto rano wstaje, temu Pan Bóg daje
-Kto rano wstaje, ten jest niewyspany
-Kto raz z diabłem płynął, musi go zawsze wozić
-Kto sieje wiatr, ten zbiera burze
-Kto się buduje, procesuje i leczy, tego bieda ćwiczy
-Kto się ceni, ten się leni
-Kto się czubi, ten się lubi
-Kto się mądrzejszym czuje, ten głupszemu ustępuje
-Kto się przerzuci z wódki na mleko, nie pociągnie daleko
-Kto skończył siew, może spać do żniw
-Kto w błoto wpadnie, ten suchy nie wstanie
-Kto w cudzej stodole młóci, i w jego odmłócą
-Kto wysoko lata, ten nisko siada
-Kto występnym przebacza, ten niewinnych będzie karał
-Kto zakosztuje dobrego, nie patrzy na biedniejszego
-Kto ze sobą nosi, nikogo nie prosi
-Kto ziarno sieje, ten przed burzą zwieje
-Kuj żelazo póki gorące
-Kwiecień – plecień, co przeplata, trochę zimy, trochę lata
-Kwiecień, gdy deszczem plecie, maj wystroi w kwiecie
-Konia kują, żaba nogę podstawia
-Leje jak z cebra
-Lepiej „być”, niż „mieć”
-Lepiej być pięknym i bogatym, niż brzydkim i biednym
-Lepiej byle jak siedzieć niż dobrze stać
-Lepiej dmuchać na zimne niż się gorącym sparzyć
-Lepiej dać kije stu niewinnym jak puścić płazem jednemu winnemu
-Lepiej dosadzić niż przesadzić
-Lepiej dźwigać jak ścigać
-Lepiej mieć co zdjąć niż nie mieć czego założyć
-Lepiej nie dolać jak przelać
-Lepiej nie dosolić niż przesolić
-Lepiej nie grzeszyć niż do pokuty śpieszyć
-Lepiej nosić niż prosić
-Lepiej późno niż wcale
-Lepiej się ukłonić głowie niż ogonowi
-Lepiej z mądrym pieczeń obracać, niż z głupim ją jeść
-Lepiej z mądrym zgubić niż z głupim znaleźć
-Lepiej ze swoimi płakać niż z obcymi skakać
-Lepiej zjeść i odchorować niż się miałoby zmarnować
-Lepiej zrozumieć mało niż zrozumieć źle
-Lepiej żałować, że się coś zrobiło, niż żałować, że się nic nie zrobiło
-Lepiej żartować niż chorować
-Lepiej że na głowie niż w głowie łyso
-Lepsza cnota niż wóz złota
-Lepsza jedna panna niż cztery wdowy
-Lepsza u matki polewka niż u obcych marcepany
-Lepsza byle jaka prawda niż dobre kłamstwo
-Lepsze dziś jajko niż jutro kokosza
-Lepsze jedno lato jak dwie zimy
-Lepsze jest wrogiem dobrego
-Lepsze swoje na smole niż czyje w rosole
-Lepszy chleb z solą z dobrą wolą niż marcepan z niewolą
-Lepszy dukat przed procesem, niźli trzy po procesie
-Lepszy funt rozumu niż cetnar dowcipu
-Lepszy gram handlu niż kilo roboty
-Lepszy mądry wróg niż głupi przyjaciel
-Lepszy na wolności kąsek lada jaki niźli w niewoli przysmaki
-Lepszy rydz niż nic
-Lepszy własny chleb niż pożyczona bułka
-Lepszy wróbel w garści niż gołąb na dachu
-Lepszy wróbel w ręku niż cietrzew na sęku
-Lepszy żywy lis niż martwy lew
-Licho nie śpi
-Ładna buzia to połowa posagu
-Ładnemu we wszystkim ładnie
-Ładny kwiatek krótko przy drodze stoi
-Łagodność uśmierza ból
-Łagodność wszystkiego dokaże
-Łaska pańska na pstrym koniu chadza
-Łaska pańska na pstrym koniu jeździ
-Łatwiej brać niż dać
-Łatwiej coś zganić niż zrobić
-Łatwiej kołek obcinkować niż go później pogrubasić
-Łatwiej komu radzić niż dopomóc
-Łatwiej nauczyć się kląć niż czytać
-Łatwiej obiecać niż dotrzymać
-Łatwiej pałac skrytykować niż psu budę postawić
-Łatwiej popsuć niż naprawić
-Łatwiej słuchać niż rozkazywać
-Łatwiej sto pcheł upilnować niż jednej dziewczyny
-Łatwiej wojnę zacząć niż ją skończyć
-Łatwiej z góry jak pod górę
-Łatwiej zranić niż leczyć
-Łatwo być hojnym z cudzego
-Łatwo cudzym szafować
-Łatwo przyszło – łatwo poszło
-Łatwowierność rodzi oszustów
-Łut szczęścia lepszy, niż cetnar rozumu
-Łyżka dziegciu beczkę miodu zepsuje
-Ma coś z rycerza – zakuty łeb
-Maj z grzmotami – rok dobry przed nami
-Małe dzieci – mały kłopot, duże dzieci – duży kłopot
-Małe pieski najwięcej szczekają
-Masz babo placek
-Mądra matka dba o swe córki
-Mądrej głowie dość dwie słowie
-Mądrej głowy włos się nie trzyma
-Mądry głupiemu zawsze ustępuje
-Mądry Polak po szkodzie
-Mężczyzna powinien być tylko trochę ładniejszy od diabła
-Miłe złego początki
-Modli się pod figurą, a diabła ma za skórą
-Mokry deszczu się nie boi
-Mowa jest srebrem, a milczenie złotem
-Mówił dziad do obrazu, a ten do niego ani razu
-Mieć dwie lewe ręce
-Miłość od pierwszego wejrzenia
-Mój dom jest moją twierdzą
-Muru głową nie przebije, a morza nikt nie wypije
-Myślał indyk o niedzieli, a w sobotę łeb mu ścieli
-Na Agnieszkę mróz, składaj chłopie wóz
-Na Alberta sianokosów pełna sterta
-Na Andrzeja mróz, gotuj na zimę wóz, a jak taje, to znów sanie
-Na bezrybiu i rak ryba
-Na frasunek dobry trunek
-Na głupiej głowie i włos się nie utrzyma
-Na języku miód, a w sercu lód
-Na koniu jedzie, a konia nie widzi
-Na Nowy Rok pogoda – będzie w polu uroda, na Nowy Rok pluta – będzie w polu pokuta
-Na Nowy Rok przybywa dnia na barani skok
-„Na oko” – to chłop w szpitalu leżał
-Na pieniądzach świat nie stoi
-Na pochyłe drzewo każda koza wlezie
-Na to daje gębie papać, by umiała dobrze kłapać
-Na świętą Annę mrowiska, szukaj w zimie ogniska
-Na świętego Albina rzadka u ludzi mina, bo post się zaczyna
-Na świętego Andrzeja kurom w polu nadzieja
-Na świętego Dygdy, co go nie ma nigdy
-Na święty Ambroży poprawią się mrozy
-Na święty Antoni pierwsza się jagódka zapłoni
-Na Gromniczną mróz – ładuj chłopie wóz, na Gromniczną ciecze – to się zima wlecze
-Na święty Walenty uciekają z domu centy
-Na to ma kowal kleszcze, żeby sobie rąk nie sparzyć
-Na złodzieju czapka gore
-Nadgorliwość gorsza od faszyzmu
-Nadzieja – matką głupich
-Nadzieja umiera ostatnia
-Najciężej strzemiona dopaść, to się i na koń dostanie
-Najgorszy jest diabeł wtenczas, kiedy się modli
-Najgorzej, jak komu woda sodowa uderzy do głowy
-Najlepsze mienie – czyste sumienie
-Najpierw klęczy, prosi, szlocha, potem krzyczy: dość, wynocha!
-Natura ciągnie wilka do lasu
-Nauka nie poszła w las
-Nawet mistrzowi nie zaszkodzi nauka
-Ni brat, ni swat
-Na stary picy młody ogier sie ćwicy
-Ni do rady, ni do zwady
-Ni do szabli, ni do kądzieli
-Ni pies, ni wydra
-Ni prośbą, ni groźbą
-Ni przypiął, ni przyłatał
-Ni przypiął, ni wypiął
-Ni to pies, ni wydra, coś na kształt świdra
-Ni to pies, ni zając
-Ni w Boga wierzy, ni się diabła boi
-Ni widu, ni słychu
-Ni w pięć, ni w dziewięć
-Ni zdolności, ni ochoty
-Ni z gruszki, ni z pietruszki
-Nic mu nie będzie, bo głupi
-Nic tak dobrze nie przenika jak gorzałka do przełyka
-Nie bądź w gorącej wodzie kąpany
-Nie boi się wilk psa, tylko szczekania jego
-Nie budź licha, kiedy śpi
-Nie chce góra przyjść do Mahometa, musi Mahomet przyjść do góry
-Nie chwal dnia przed zachodem słońca
-Nie czas żałować róż, gdy płoną lasy
-Nie człowiek życie wymyślił, ale takim je zastał
-Nie czyń bliźniemu, co tobie niemiłe
-Nie dasz chłopakom, to dasz robakom
-Nie dla pieniędzy się żyje, lecz za nie
-Nie dla psa kiełbasa, nie dla kota spyrka
-Nie dla psa kiełbasa, nie dla prosiąt miód
-Nie dolewaj oliwy do ognia
-Nie dziel skóry na niedźwiedziu
-Nie głaskaj kota pod włos
-Nie idź spać w gniewie, bo czy się obudzisz – nie wiesz
-Nie ilość – lecz jakość
-Nie jednemu psu Burek na imię
-Nie każda głowa siwa mądra bywa
-Nie kąsa się ręki, która karmi
-Nie kijem go, to pałą
-Nie kładź palca między drzwi
-Nie kracz, nie kracz, bo wykraczesz
-Nie kupuj kota w worku
-Nie ma głupich pytań, są tylko głupie odpowiedzi
-Nie masz cwaniaka nad Warszawiaka
-Nie masz wina nad węgrzyna
-Nie ma tego złego, co by na dobre nie wyszło
-Nie ma dymu bez ognia
-Nie ma miłości bez zazdrości
-Nie ma róży bez kolców
-Nie ma reguły bez wyjątku
-Nie ma tego złego, co by na dobre nie wyszło
-Nie ma to, jak we własnym domu
-Nie masz na upór lekarstwa
-Nie miała baba kłopotu, kupiła sobie prosię
-Niemiła księdzu ofiara, chodź cielę do domu
-Nie można dwom panom służyć
-Nie mów, co myślisz – myśl, co mówisz
-Nie mów hop, póki nie przeskoczysz
-Nie mów nikomu, co się dzieje w domu
-Nie mów nikomu, co tobie niemiłe
-Nie mów o nikim, nie będą o tobie
-Nie na to żyjemy, byśmy jedli i pili, lecz na to pijem i jemy, abyśmy żyli
-Nie nos dla tabakiery, lecz tabakiera dla nosa
-Nie odkładaj na jutro tego, co masz zrobić dziś
-Nie od razu Kraków zbudowano
-Nie pluj w studnię, bo może ci przyjść kiedyś czerpać z niej wodę
-Nie po to głowa, by na niej czapkę nosić
-Nie pożyczaj, zły obyczaj
-Nie pożyczywszy – na tydzień gniewu, pożyczywszy – na cały rok
-Nie pomoże mydło, ani malowidło, ani studnia wody, jak nie ma urody
-Nie pomoże puder, róż, kiedy gęba stara już
-Nie pomoże uczoność, ani nieskończoność, ani fura sprzętu, jak nie ma talentu
-Nie przebieraj panno, żebyś nie przebrała, żebyś za kanarka wróbla nie dostała
-Nie przesadza się starych drzew
-Nie rozdzielaj włosa na czworo
-Nie rozdzielaj włosa zapałki na czworo
-Nie rzucaj pereł między wieprze
-Nie rzucaj słów na wiatr
-Nie samym chlebem człowiek żyje
-Nie sądź, a nie będziesz sądzony
-Nie skryje diabeł końskiego kopyta
-Nie szata zdobi człowieka
-Nie szata zdobi człowieka, lecz człowiek szatę
-Nieszczęścia chodzą parami
-Nie śmiej się, dziadku, z czyjegoś wypadku – dziadek się śmiał i to samo miał
-Nie święci garnki lepią
-Nie taki diabeł straszny, jak go malują
-Nie ten święty, co zgięty
-Nie to ładne, co piękne, ale co się komu podoba
-Nie ucz księdza pacierza
-Nie ucz matki jak się dzieci robi
-Nie ucz ojca dzieci robić
-Nie udawaj Greka
-Nie warto płakać nad rozlanym mlekiem
-Nie wchodzi się dwa razy do tej samej rzeki
-Nie wie głowa co język bełkocze
-Nie wierz nigdy dziewucho, coć chłop szepce na ucho
-Nie wierz nigdy mężczyźnie, to słodki cukierek maczany w truciźnie
-Nie wsadzaj nosa do cudzego prosa
-Nie wszystko da się kupić za pieniądze
-Nie wszystko się godzi, co wolno
-Nie wszystko złoto, co się świeci
-Nie wścibiaj nosa, gdzieś nie dał grosza
-Nie wtykaj kija w mrowisko
-Nie wtykaj nosa w nie swoje sprawy
-Nie wychylaj nosa, to ci go nie przytrą
-Nie wykręcaj kota ogonem
-Nie wywołuj wilka z lasu
-Nie zabija się kury znoszącej złote jajka
-Nie z jednego pieca jadł chleb
-Nie zmienia się koni podczas przeprawy przez rzekę
-Nie życz złego nikomu, byś tego nie zastał w domu
-Niech ci Pan Bóg w dzieciach wynagrodzi
-Niech to będzie kłak, czy wełna – byle była kiszka pełna
-Niech ten rządzi, co ma mądzi, a kto ma one, niech idzie na strone
-Niedaleko pada jabłko od jabłoni
-Niejeden rekin sobie życzy, by dorodna szprotka wiodła go na smyczy
-Nigdy nie jest tak źle, żeby nie mogło być gorzej, ani tak dobrze, żeby nie mogło być lepiej
-Nigdy nie mów „nigdy”
-Nigdy nie należy palić za sobą wszystkich mostów
-Nigdy nie pluj pod wiatr
-Nikt nie jest dobrym sędzią w swojej własnej sprawie
-Nikt nie jest prorokiem między swymi
-Nikt nie odgadnie, co u kogo w sercu na dnie
-Nikt się mądrym nie rodzi, ale staje
-Nikt swego garbu nie widzi
-Nim się baba uszpili, chłop przejdzie pół mili
-Nosić drzewo do lasu
-Nosi go, jak Żyda po pustym sklepie
-Nosił wilk razy kilka, ponieśli i wilka
-Nowa miotła lepiej zamiata
-Nowe koła skrzypią
-Nowego kłamstwa słucha się chętniej, niż starej prawdy
-Nowy Rok pogodny – zbiór będzie dogodny
-Nudne jak flaki z olejem
-Nudy na pudy
-O pieniądzach się nie mówi, pieniądze się ma
-Obijać się jak Żyd po pustym sklepie
-Od piwa głowa się kiwa
-Od starych kruków młode uczą się krakać
-Od wódki rozum krótki
-Od przybytku głowa nie boli
-Od Sasa do Lasa
-Ogień i woda, dobrzy słudzy, lecz źli gospodarze
-Od świętej Anki zimne wieczory, chłodne poranki
-Oliwa sprawiedliwa, zawsze na wierzch wypływa
-Palec skaleczysz – cała ręka boli
-Paluszek i główka to szkolna wymówka
-Pan Bóg stworzył wieś, a człowiek miasto
-Papier jest cierpliwy: wszystko przyjmie
-Pasuje jak piąte koło u wozu
-Pasuje jak pięść do nosa
-Pasuje jak garbaty do ściany
-Pasuje jak kwiatek do kożucha
-Pasuje jak wilk do pilnowania owiec
-Pasuje jak świni siodło
-Pasuje jak wół do karety
-Patrzy jak cielę na malowane wrota
-Patrzy jak sroka w gnat
-Październik ciepły, będzie luty strzepły
-Póki życia, póty nauki
-Póty dzban wodę nosi, póki się ucho nie urwie
-Pan każe – sługa musi
-Pańskie oko konia tuczy
-Pan Bóg nie rychliwy, ale sprawiedliwy
-Pan Bóg stworzył byka – i byk był; a chłop wziął kozika, urżnął mu u dołu i stworzył wołu
-Pieniądze szczęścia nie dają
-Pierwej rozważ, potem odważ
-Pierwsze koty za płoty
-Pierwsze pół życia żyjemy marzeniami, a drugie pół – wspomnieniami
-Pierwsze śliwki – robaczywki
-Pies ogrodnika; samemu nie zje i drugiemu nie da
-Pijak podobny jest do zwierza: ni do roboty, ni do pacierza
-Plotka wyleci wróblem, a powróci wołem
-Po burzy zawsze słońce przychodzi
-Po karnawale – czas na gorzkie żale
-Po każdej nocy wschodzi słońce
-Po świętej Agacie wyschną na słońcu gacie
-Po tłuste cielę i do domu trafią, a chudego i na targu nie kupią
-Pod latarnią najciemniej
-Podłość ludzka nie ma granic
-Podobni jak dzień do nocy
-Podróże kształcą
-Poeta tylko głowa nie ta
-Pokorne cielę dwie matki ssie
-Polak, Węgier dwa bratanki – i do szabli, i do szklanki
-Polska cnota: każdemu otworzyć wrota
-Polski żołnierz w obozie – anioł, w polu – lew
-Porywać się z motyką na słońce
-Postać anielska, dusza diabelska
-Pośpiech jest wskazany tylko przy łapaniu pcheł
-Pośpiech jest złym doradcą
-Potrzebne jak dziura w moście
-Potrzebne jak zającowi dzwonek na polowaniu
-Po winie rozum w głowie ginie
-Poznać łatwo w starości, jaki kto był w młodości
-Poznać pana po cholewach
-Poznać po mowie, co kto ma w głowie
-Poznasz głupiego po śmiechu jego
-Pozory często mylą
-Praca nie zając, nie ucieknie
-Pracuj, a garb ci sam wyrośnie
-Prawa są równie jako pajęczyna: wróbel się przeciśnie, a na muszkę wina
-Prawda i cnota ginie od złota
-Prawda jak oliwa – zawsze na wierzch wypływa
-Prawda w oczy kole
-Prawda zawsze zwycięża
-Prawdziwa cnota krytyk się nie boi
-Autor: Ignacy Krasicki
-Prawdziwa wiedza to znajomość przyczyn
-Prawdziwego przyjaciela poznaje się w biedzie
-Proste drzewo nie rzuca garbatego cienia
-Prosty czy krzywy – każdy chce być szczęśliwy
-„Proszę”, „przepraszam”, „dziękuję” – pomaga, a nic nie kosztuje
-Przed kim bramę zamkną, niech do furtki puka
-Przepadło jak kamień w wodę
-Przepisy są po to, aby je łamać
-Przezorny – zawsze ubezpieczony
-Przyganiał kocioł garnkowi, a sam smoli
-Przyjaciela szukaj blisko, wroga daleko
-Przyjaźń zawarta przy kieliszku wódki zwykle ma żywot krótki
-Przyszła koza do woza
-Przyszła kryska na Matyska
-Psa głaskaj, ale kija z ręki nie puszczaj
-Punkt widzenia zależy od punktu siedzenia
-Puścił się bez wiosła na morze
-Pycha i z nieba spycha
-Rób a rób, zarobisz na grób
-Ranne wstawanie i wczesna żeniaczka jeszcze nikomu nie zaszkodziły
-Raz na wozie, raz pod wozem
-Ręka rękę myje
-Reguła prosta, że aż osłupia: kto się wymądrza, ten się wygłupia
-Rozmówił się, jak gęś z prosięciem
-Sam sobie powiedział i sam się uśmiał
-Sam sobie sterem, żeglarzem, okrętem
-Samotnemu cały świat pustynią
-Samotny jak kołek w płocie
-Sen mara – Bóg wiara
-Sędzia nie ma być głodny
-Siła złego na jednego
-Siedzieć cicho jak mysz pod miotłą
-Siejesz wiatr – zbierasz burze
-Skąpy dwa razy traci
-Chytry dwa razy traci
-Skleroza nie choroba tylko nogi bolą
-Skorego konia jeszcze batem pod górę
-Skoro jest tak dobrze, to dlaczego jest tak źle?
-Słodkie życie – jak w Madrycie
-Słońce i woda zawsze zdrowia doda
-Słońcu i miłości nigdy się w oczy nie patrzy
-Słowo się rzekło, kobyłka u płota
-Słówko wyleci wróblem, a powróci wołem
-Służ panu wiernie, on ci za to pierdnie
-Słuchaj uchem, a nie brzuchem
-Sport to zdrowie
-Sposób na zdrowie człeka – od lekarzy z daleka
-Sprawiedliwość bez dobroci okrucieństwem jest
-Sprzedać się za miskę soczewicy
-Stara miłość nie rdzewieje
-Stare buty najwygodniejsze
-Starego psa nie nauczysz aportować
-Starego wróbla na plewy nie złapiesz
-Stare psisko dobre, jak leży pod płotem
-Stare to są dobre: fortepian i skrzypce
-Stare wino, żona młoda, niejednemu życia doda
-Starość nie radość, młodość nie wieczność
-Starość nie radość, śmierć nie wesele
-Stary, a głupi
-Stary, ale jary
-Stoi jak wół na granicy
-Strach ma wielkie oczy
-Strachy na Lachy
-Stroić się w cudze piórka
-Strzeżonego Pan Bóg strzeże
-Strzeż się psa milczącego i spokojnej wody
-Styczeń pogodny wróży rok płodny
-Suchy marzec, mokry kwiecień i maj chłodny – wróżą rok niegłodny
-Suchy marzec, mokry maj, będzie żytko niby gaj
-Sumienie stoi za tysiąc świadków
-Swoje brudy trzeba prać w domu
-Swojego nie puszczaj, po cudze nie sięgaj
-Syty głodnego nie zrozumie
-Szaleć jak pies spuszczony z łańcucha
-Szczenięcej miłości wątek – pieskiego życia początek
-Szczęściarzowi nawet wół się ocieli
-Szczęście ciska ludźmi jak piłką
-Szczęście człowieka psuje, nieszczęście hartuje
-Szczęście czego mi nie dało, tego mi nie będzie brało
-Szczęście dziś matką, a jutro może być macochą
-Szczęście głupim sprzyja
-Szczęście gdy trafi na głupiego, wszystkim go czyni nieznośnego
-Szczęście karetą nie jeździ, ale i w łachmanach nie chodzi
-Szczęśliwi czasu nie liczą
-Szewc bez butów chodzi
-Szlachcic na zagrodzie równy wojewodzie
-Szlachetne zdrowie, nikt się nie dowie jako smakujesz – aż się popsujesz
-Szukajcie, a znajdziecie
-Szukać igły w stogu siana
-Szybka decyzja to połowa zwycięstwa
-Szyby lecą, szklarz się śmieje
-Ściany mają uszy
-Ślepy afekt i pamięć z człowieka wywlecze
-Ślusarz zawinił, a kowala powiesili
-Śmiałby się człowiek dookoła głowy żeby nie uszy
-Śmiech to zdrowie
-Śmieje się jak głupi do sera
-Śmierć i żona od Boga przeznaczona
-Śniadanie zjedz sam, obiadem podziel się z przyjacielem, a kolację daj wrogowi
-Śpiesz się powoli
-Święta Agnieszka wypuszcza skowronka z mieszka
-Święta, Święta i po Świętach
-Święty Alojzy miód w plastrach dojrzy
-Święty Antoni o gryce siać przypomni
-Święty Antoni od zguby broni
-Święty Antoni złodziei goni
-Świnia się nie myje – i żyje
-Tak krawiec kraje, jak mu materii staje
-Tanie mięso psy jedzą
-Tanie kupisz, psom wyrzucisz
-Temu czapkują, przy kim pieniądz czują
-Ten się nie myli, kto nic nie robi
-Ten się śmieje, kto się śmieje ostatni
-Tłumaczyć z polskiego na nasze
-Tonący brzytwy się chwyta
-Trafić z deszczu pod rynnę
-Trafiła kosa na kamień
-Trafiło się ślepej kurze ziarno
-Trud człowieczy czas niweczy
-Trudno dwóm panom służyć
-Trunek mocny, białogłowa grzeszna – z najmędrszego uczynią błazna
-Trzej najlepsi lekarze: dr Spokój, dr Dieta i dr Humor
-Tu goli – i tam strzyże
-Tu leży pies pogrzebany
-Tylko głupiec dyskutuje z końskim zadem
-Tylko krowa zdania nie zmienia
-Tylko trzewik wie, że pończocha dziurawa
-U wdowy chleb gotowy
-U skąpego zawsze po obiedzie
-Ubóstwo cnoty nie traci
-Ubóstwo nie hańbi
-Ubóstwo nie jest ohydą
-Ubóstwo nikogo nie krzywdzi
-Ubóstwo szlachectwa nie traci
-Ubóstwo uczciwe nie bywa wstydliwe
-Ubogi żywi się jak może, a bogaty jako chce
-Ubogi mało ma przyjaciół
-Ubogi nie ma tego, owego, a bogacz łakomy wszystkiego
-Ubogi za psa u bogacza stoi
-Ubogi jak mysz kościelna
-Ubogiego zdanie: nie dba nikt na nie
-Ubogiemu łacniej być dobrym
-Ubogiemu dzieciątko, bogatemu cielątko
-Ubogiemu kawał chleba, to most do nieba
-Ubogiemu zawsze wiatr w oczy a droga pod górkę
-Ubogiemu zawsze wiatr w oczy
-Ubrał się, jak dudek w pawie pióra
-Ubrany jak pan, a głupi jak baran
-Ucieczka jest zawsze haniebna, ale czasem zbawienna
-Ucieczka winnym czyni
-Ucieka świńskim truchtem
-Ucieka, aż się za nim kurzy
-Ucieka, jak Cygan na kradzionym koniu
-Ucieka, jak od zgniłego psa
-Ucieka, jak pies oparzony
-Ucieka, jak przed zbrojnymi goły
-Ucieka, jak zając przed chartem
-Uciekającego i bojaźliwy goni
-Uciekać nie ładnie, ale pożytecznie
-Ucz się, ucz, bo nauka to do potęgi klucz
-Ucz swoje dzieci kamienie gryźć
-Uczący drugich sam się uczy
-Uczepił się, jak pchła kożucha
-Uczepił się, jak rzep psiego ogona
-Uczonego zawsze kochają, nieuczonym wszędzie pogardzają
-Uczonym nie łacno zostać
-Uderz w stół, a nożyce się odezwą
-Umarłego płaczem nie wskrzesi
-Umiesz liczyć, licz na siebie
-Upartego i kijem nie przekona
-Upił się jak bąk
-Upił się jak świnia
-Uroda rzecz nietrwała
-Urodził się – ochrzcili, podrósł – ożenili, umarł – pochowali i na grobie napisali, że był błazen
-Uszom prędzej można dogodzić, niż oczom
-W adwenta same posty i święta
-W czerwcu się okaże, co nam rok da w darze
-W dnie kieliszka wszystko znika
-W krótkie dzionki października wszystko z pola, z sadu znika
-W lipcu dzień mglisty, jesienią czas dżdżysty
-W lipcu upały – wrzesień doskonały
-W lipcu upały, w grudniu mróz ostry i stały
-W listopad liść z drzewa opadł
-W listopadzie ziemia ciepła, zima będzie skrzepła
-W lutym aura burzowa – wiosna rychliwa
-W lutym śnieg i mróz stały, czynią w lecie upały
-W marcu jak w garncu
-W marcu śnieżek sieje, a czasem słonko grzeje
-W Narodzenie Panny Marii pogodnie, będzie tak cztery tygodnie
-W piątek zły początek
-W starym piecu diabeł pali
-W święty August koniec burz
-W tym największy jest ambaras, żeby dwoje chciało na raz
-W zdrowym ciele zdrowy duch
-Wesoło w maju ze słowikiem w gaju
-Widać po słowie co u kogo w głowie
-Wiedzą sąsiedzi, jak kto siedzi
-Wielki jak brzoza, a głupi jak koza
-Więcej dogryzie psiarnia kundlów, niż jeden brytan
-Większa moc boska, niż złość ludzka
-Wstyd bardziej niż plaga boli
-Wszędzie dobrze, ale w domu najlepiej
-Wszędzie dobrze, gdzie nas nie ma
-Wszystko dobre, co się dobrze kończy
-Wszystko ma swój koniec
-Wszystko, co dobre, szybko się kończy
-Wybiera się, jak sójka za morze
-Wysoki do nieba, a głupi jak trzeba
-Wysoki jak brzoza, a głupi jak koza
-Wysoki jak topola, a głupi jak fasola
-Wystroił się jak stróż w Boże ciało
-Wyszło szydło z worka
-Wyśpisz się po śmierci
-Z armatą na muchę
-Z deszczu pod rynnę
-Z dużej chmury mały deszcz
-Z dzieła poznaje się człowieka
-Z jedynaka jak nie pies, to sabaka
-Z kim szczęście na ukos, i kury nań gdaczą
-Z pustego i Salomon nie naleje
-Z tej mąki chleba nie będzie
-Za Augusta ziemia pusta
-Za babą i diabeł nie trafi
-Za cierpienie da Bóg zbawienie
-Za dukata brat sprzeda brata
-Za grosz cię powieszą, a za dukata ujdziesz
-Za króla Olbrachta wyginęła szlachta
-Za mundurem panny sznurem
-Zapomniał wół, jak cielęciem był
-Zawodu szewca trzeba się wyuczyć, a do wyższych stanowisk wystarczy sukienka duchowna
-Zawsze to znać, co kundel, a co wyżeł
-Zbój zbója pogoni
-Zgoda buduje, niezgoda rujnuje
-Ziarnko do ziarnka, aż zbierze się miarka
-Zjedli diabli krowę, niech zjedzą i cielę
-Złe gospodarstwo, gdzie kądziel przewodzi nad mieczem
-Złego diabli nie biorą
-Złej baletnicy szkodzi rąbek przy spódnicy
-Zrób dziś, co masz zrobić jutro
-Zrób komu dobrze, to ci da po ziobrze
-Źle się w marcu urodzić, bo trudno takiemu dogodzić
-Żebro Adamowe nie przynosi tak wiele pożytku jak szkody
-Żeby ciocia miała wąsy, toby była wujkiem
-Żeby dać, trzeba mać
-Żeby kózka nie skakała, to by nóżki nie złamała
-Żeby nie ten „dech”, toby człowiek zdechł
-Żyd żyda, ksiądz księdza o sto mil zwietrzy
-Agnieszka li łaskawa, wkrótce w polu zabawa; Agnieszka li nielusa, jeszcze zimie pokusa
-Agnieszka łaskawa puszcza skowronka z rękawa
-Bartłomiej zwiastuje, jaka jesień następuje, i czy w przyszłym latku dożyjesz dostatku
-Bartłomiej zwiastuje, jaka jesień następuje
-Bartłomieja cały wrzesień naśladuje, i z nim jesień
-Bartłomieja świętego dzień w jakiej zostaje porze, taką jesień bez ochyby daje
-Choć dziś Anastazy, pal w piecu dwa razy
-Deszcz św Jana obiecuje mokre żniwa
-Deszcz w św Floriana, skrzynia groszem napchana
-Gdy na św Barbarę gęś chodzi po lodzie, to Boże Narodzenie będzie po wodzie
-Gdy w św Barbarę gęś po stawie chodzi, w Boże Narodzenie pływać po nim się godzi
-Gdy na św Bernarda ziemia twarda, zima będzie harda
-Gdy przyjdzie św Agnieszka, przebije lód ogonem pliszka
-Gdy się deszcz w święto Jana opuści obfity, po nim w kilka dni, wierz mi, bywa pozbyty
-Gdy w dzień Adama i Ewy mróz i pięknie, zima wcześnie pęknie
-Gdy w św Barbarę ostre mrozy, to na zimę gotuj wozy; a gdy roztajanie, każ opatrzyć sanie
-Jak na św Agnieszkę mróz, to wygryzki do nawozu włóż
-Jak w świętą Annę deszcz pada, to robak orzechy zjada
-Jaki Bartek niesie dzień, takąć będzie i jesień
-Jaki Bartek niesie dzień, takąż będzie i jesień
-Jaki Bartek, taki wrzesień, jaki Marcin, taka zima
-Jeśli na Agnieszkę pochmurno, to o len nie trudno; a jeśli jasno, to o len ciasno
-Jeśli święta Agnieszka wypuści skowronka z mieszka, to już zima na ziemi długo nie pomieszka
-Jeżeli w dzień św Jacka deszcz nie pada, będzie jesień sucha
-Kiedy na św Barbarę błoto, będzie zima jak złoto
-Kiedy w św Barbarę mróz, to chłopie sanie na górę włóż
-Gdy na św Barbarę mróz, sanie na górę włóż, a szykuj dobry wóz
-Kiedy w św Barbarę mróz, to szukaj chłopie dobry wóz
-Kiedy w św Barbarę mróz, to szykuj chłopie dobry wóz
-Na Bartłomieja jeleń w wodę wskoczy
-Na dzień św Doroty ma być śniega nad płoty
-Na Kazimiera zima umiera
-Na św Agatę wysuszysz na słońcu szmatę
-Na św Agnieszkę, wychodzi woda na ścieżkę
-Na św Ambroży poprawiają się mrozy
-Na św Annę mrowiska, szukaj w zimie ogniska
-Na św Barbarę, jeżeli mróz i pogoda, zima będzie lekka i bez śniegu
-Na św Bartłomieja mroźnej zimy jest nadzieja
-Na św Franciszka zielenią się łany i ze swego zimowiska wracają bociany
-Na św Grzegorza zima idzie do morza
-Na św Grzegorza idą rzeki do morza
-Na św Grzegorza pójdzie zima do morza
-Jak odwilż na św Grzegorza, to pójdzie zima do morza
-Na św Grzegorza ucieka śnieg do morza
-Od św Agnieszki już posprzątaj z drzew liszki, a jeśli mróz tęgi, szczep gonty i dęgi; radź o drzewie, o stodole, nawozy też wywóź w pole
-Od świętej Anki zimne wieczory i ranki
-Od św Anki zimne poranki
-Od św Anny nie doczeka południa deszcz poranny
-Po św Agacie wyschnie bielizna na płocie
-Po św Agnieszce napije się wół na ścieżce
-Po św Ewie chodzi się w cholewie
-Po św Bartłomieju z łyżki deszczu ceber błota
-Serwacy, Pankracy, Bonifacy – zły na ogród chłopacy
-Susza w św Bartłomieja, mroźnej zimy jest nadzieja
-Św Barbara chłopa utopi, albo umrozi
-Św Barbara po lodzie, Boże Narodzenie po wodzie
-Św Barbara po wodzie, Boże Narodzenie po lodzie
-Św Hanna, to już jesienna panna
-Św Agnieszki, pół zimy końskiej
-Św Bartłomiej pogodny, jesień pogodna
-Św Zofija kłosy rozwija
-W dzień św Agaty, jeśli słonko przez okienko zajrzy do chaty, to wiosenka na świat poogląda zza zimowej kraty
-Baba śląska: w barach szeroka, w dupie wąska
-Gówno lepiej obejść, jak ruszyć
-Jak nie urok, to sraczka
-Jak się nie odwrócić – zawsze dupa z tyłu
-Każde gówno źle pachnie
-Mów do słupa, a słup dupa
-Na św Bartłomiej z dupą pod płomień!
-Nie rozrabiaj, nie podskakuj, siedź na dupie i przytakuj
-Nie widziała dupa słońca, zagorzała od miesiąca
-Pasuje jak kij do dupy
-Samotny jak palec w dupie
-Swoje – do kupki, czyje – do dupki
-Taki z niego muzykant jak z koziego ogona klarnet, a z koziej dupy trąba
-Wyżej dupy nie przeskoczysz
-Wyżej dupy nie podskoczysz
-Apetyt rośnie w miarę jedzenia
-Bez pracy nie ma kołaczy
-Biednemu zawsze wiatr w oczy
-Być kulą u nogi
-Być pracowitym jak pszczoła
-Cel uświęca środki
-Cisza jak makiem zasiał
-Co Cię nie zabije, to Cię wzmocni
-Co dwie głowy, to nie jedna
-Co kraj, to obyczaj
-Co ma wisieć, nie utonie
-Co ma piernik do wiatraka?
-Co się odwlecze to nie uciecze
-Co z oczu, to z serca
-Co za dużo to niezdrowo
-Czego Jaś się nie nauczy, tego Jan nie będzie umiał
-Czuć się jak ryba w wodzie
-Czym chata bogata tym gościom rada
-Darowanemu koniowi w zęby się nie zagląda
-Dla chcącego nic trudnego
-Do wesela się zagoi
-Drzeć z kimś koty
-Dzieci i ryby głosu nie mają
-Gdy kota nie ma, myszy harcują
-Gdy się człowiek spieszy, to się diabeł cieszy
-Gdzie kucharek sześć, tam nie ma co jeść
-Głupi ma zawsze szczęście
-Gość w dom – Bóg w dom
-Grosz do grosza, a będzie kokosza
-Hulaj dusza, piekła nie ma
-Idzie luty podkuj buty
-Jajko mądrzejsze od kury
-Jaka praca, taka płaca
-Jak Cię widzą, tak Cię piszą
-Jak kamień w wodę
-Jak Kuba Bogu, tak Bóg Kubie
-Jak pies je, to nie szczeka bo mu miska ucieka
-Jak się nie ma co się lubi, to się lubi co się ma
-Jak sobie pościelesz, tak się wyśpisz
-Jak trwoga, to do Boga
-Jedna jaskółka wiosny nie czyni
-Każdy jest kowalem swego losu
-Kląć jak szewc
-Kłamstwo ma krótkie nogi
-Kogut myślał o niedzieli, a w sobotę łeb ucięli
-Komu w drogę, temu czas
-Kto pierwszy ten lepszy
-Kto pod kim dołki kopie, ten sam w nie wpada
-Kto pyta, nie błądzi
-Kto rano wstaje, temu Pan Bóg daje
-Kto się czubi, ten się lubi
-Kuj żelazo póki gorące
-Kwiecień – plecień, co przeplata, trochę zimy, trochę lata
-Leje jak z cebra
-Lepiej nosić,jak się prosić
-Lepsza byle jaka prawda, niż dobre kłamstwo
-Lepszy rydz niż nic
-Licho nie śpi
-Lepszy wróbel w garści niż gołąb na dachu
-Ładnemu we wszystkim ładnie
-Łatwo przyszło – łatwo poszło
-Małe dzieci – mały kłopot, duże dzieci – duży kłopot
-Masz babo placek
-Miłego złe początki
-Mądry Polak po szkodzie
-Mowa jest srebrem, a milczenie złotem
-Mówił dziad do obrazu, a ten do niego ani razu
-Nadzieja – matką głupich
-Ni prośbą, ni groźbą
-Ni z gruszki, ni z pietruszki
-Nie bądź w gorącej wodzie kąpany
-Nie chce góra przyjść do Mahometa, musi Mahomet przyjść do góry
-Nie chwal dnia przed zachodem słońca
-Nie czas żałować róż, gdy płoną lasy
-Nie dziel skóry na niedźwiedziu
-Nie dolewaj oliwy do ognia
-Nie kupuj kota w worku
-Nie ma dymu bez ognia
-Nie ma to, jak we własnym domu
-Nie ma tego złego, co by na dobre nie wyszło
-Nie mów hop, póki nie przeskoczysz
-Nie mów drugiemu, co tobie nie miłe
-Nieszczęścia chodzą parami
-Nie płacz nad rozlanym mlekiem
-Nie wchodzi się dwa razy do tej samej rzeki
-Nie wszystko złoto, co się świeci
-Nie wywołuj wilka z lasu
-Nudy na pudy
-Od przybytku głowa nie boli
-Paluszek i główka to szkolna wymówka
-Pasuje jak wół do karety
-Pieniądze szczęścia nie dają
-Pierwsze koty za płoty
-Pod latarnią najciemniej
-Prawda w oczy kole
-Przyszła koza do woza
-Przyszła kryska na Matyska
-Raz na wozie, raz pod wozem
-Stara miłość nie rdzewieje
-Starość nie radość, młodość nie wieczność
-Stary, ale jary
-Strach ma wielkie oczy
-Strzeżonego Pan Bóg strzeże
-Szewc bez butów chodzi
-Szukajcie, a znajdziecie
-Szukać igły w stogu siana
-Ten się śmieje, kto się śmieje ostatni
-Trafiła kosa na kamień
-Trafić z deszczu pod rynnę
-W marcu jak w garncu
-Wszystko, co dobre, szybko się kończy
-Wybiera się, jak sójka za morze
-Wystroił się jak stróż w Boże ciało
-Wyśpisz się po śmierci
-Wyszło szydło z worka
-W zdrowym ciele zdrowy duch
-Zapomniał wół, jak cielęciem był
-Zgoda buduje, niezgoda rujnuje
-Złego diabli nie biorą
-Z pustego i Salomon nie naleje
-Żeby kózka nie skakała, to by nóżki nie złamała
-Jak się nie ma co się pragnie, to się rucha co popadnie
+a co po czyjej wielkości jak nie ma w głowie mądrości
+a kto z nami nie wypije - tego we dwa kije
+aby do wiosny!
+adam cóż by poradził gdyby Bóg w raju Ewy nie posadził
+adwokat niech głowę a koń niech ma nogi
+afekty chociaż będą święte rozumem mają być ujęte
+aksamity atłasy sławy nie czynią
+albo rybki albo akwarium
+ambroży w grudniu uprawia ugory
+ani Antoni na morzu wiatru nie dogoni
+ani w Boga wierzy ani się diabła boi
+aniołowie pijanych na rękach swych noszą
+apetyt rośnie w miarę jedzenia
+apostoł ludzkości rzadko pości
+atak jest najlepszą obroną
+bez matki nie ma chatki
+będą takie mrozy że przymarznie cap do kozy
+biedny kupuje jedną kapotę ale na całe życie
+bierz nogi za pas póki jeszcze czas
+bogatemu to i byk się ocieli
+bo pić trzeba umieć
+brał i Napoleon czasem po tabinkach
+budować zamki na lodzie
+bujać to las ale nie nas!
+byłoby dłuższe lato gdyby nie zima
+byś zupełnie był mądry wiek ci nie wystarczy
+chcesz być bogatym bądź siedem lat świnią
+chcesz się dowiedzieć prawdy o sobie pokłóć się z przyjacielem
+chłop robotny i baba pyskata zawojują pół świata
+choćby i najtęższa zima - tylko do wiosny trzyma
+choćbyś miał złota skrzynie śmierci się nie wywiniesz
+choćbyś uciekał przez góry las - śmierć do ciebie zdąży na czas
+chodź chlebie zjem ciebie
+chrzest polewaj wodą wesele - wódką a pogrzeb - płakaniem
+chyba kończy się świat - świnia z pastuchem za pan brat!
+ciasno w głowie przestronno w gębie
+ciemnota - gorsza od zbrodni
+co Cię nie zabije to Cię wzmocni
+co dwie głowy to nie jedna
+co głupi straci tym się mądry wzbogaci
+co jeden polepszy to drugi popieprzy
+co jeden rok płaci to drugi rok traci
+co jedna głowa wymyśli to druga odmyśli
+co jednemu swawola to drugiemu niewola
+co komu pisane to go nie minie
+co lato odkłada to zima przejada
+co łysemu po grzebieniu!?
+co ma piernik do wiatraka?
+co nie siłą to rozumem
+co powiesz w sekrecie to wiedzą w całym powiecie
+co się nie najesz to się i nie naliżesz
+co się źle zaczyna to się dobrze kończy
+co w czyim sercu na dnie to wódka wywiedzie snadnie
+co w kobiecym sercu na dnie to i diabeł nie odgadnie
+co za dużo - to niezdrowo
+co zaszkodziło to nauczyło
+co zima przychłodzi lato wynagrodzi
+cymbał - im puściejszy w środku - tym głośniej dzwoni
+czapka na uchu a wesz na brzuchu
+czego nie można zmienić to trzeba polubić
+czego się Jaś nie nauczy Jan nie będzie umiał
+czego się nauczymy tego nam nikt nie wydrze
+czego wiosna nie zasiała - jesień nie urodzi
+człek zdechnie a robota zostanie
+człowiek dla drugich ma rozum a dla siebie głupi
+człowiekowi w życiu nie potrzeba więcej: serce do kochania rozum do myślenia i do pracy ręce
+czuć się jak ryba w wodzie
+czyja kosa pierwsza tego miedza szersza
+czyj nasiew tego plon
+czyja rola tego wola
+czy się stoi czy się leży - jakaś forsa się należy
+czy to z góry czy pod górę - furman patrzy w końską dziurę
+deszcze listopadowe budzą wiatry grudniowe
+dla chcącego nic trudnego
+dla głupiego każdy dzień święto
+dlatego dwie uszy jeden język dano iżby mniej mówiono a więcej słuchano
+długa do mądrości droga przez nauki krótsza przez przykłady
+do ludzi po naukę do matki po koszulę
+do Rzymu przez Krym
+dobra głupiemu rada - mądrego z głupim zwada
+dobra gospodyni - dom wesołym czyni
+dobre wychowanie - wrócić rano na śniadanie
+dobry chleb i z ości jak się kto przepości
+dobry początek to połowa roboty
+dobry zwyczaj - nie pożyczaj jak oddaje jeszcze łaje
+dobry zwyczaj - nie pożyczaj jeszcze lepszy - nie oddawaj
+drzewa umierają stojąc
+drzwi mogą być albo otwarte albo zamknięte; trzeciej możliwości nie ma
+dwóch głupich: jeden co daje drugi co nie bierze
+dziad jak odżyje to Cię torbą zabije
+dzieci i ryby głosu nie mają
+dzień świętego Alojzego przyczynia wina dobrego
+gadać z nim - to jak plewy młócić
+gadał dziad do obrazu a obraz doń ani razu
+gdy Andrzej się zjawi to i ziemię postawi
+gdy jeleń wejdzie w moją puszczę to jeleń mój
+gdy kota nie ma myszy harcują
+gdy kwiecień chmurny a maj z wiatrami - dobry rok przed nami
+gdy luty zimny i suchy sierpień będzie gorący
+gdy na Wawrzyńca słota trzyma do Gromnic lekka zima
+gdy pada w dniu świętej Anny pada aż do Zuzanny
+gdy przyjdzie święty Antoni znać jabłuszko na jabłoni
+gdy sierpień wrzos rozwija jesień krótka szybko mija
+gdy się człowiek spieszy to się diabeł cieszy
+gdy w sierpniu z północy dmucha zwykle nastaje posucha
+gdy Zielona Matka deszcz przynosi to zwykle na Narodzenie Matki rosi
+gdy na Gromniczną roztaje rzadkie będą urodzaje
+gdy po lipcu gorącym sierpień się ochłodzi zima twarda i z wielkim śniegiem chodzi
+gdy pszczoła w kwietniu nieruchliwa - wiosna mokra bywa
+gdy Trzej Królowie ciepłem darzą gospodarze o wiośnie gwarzą
+gdy Wielki Piątek ponury Wielkanoc bez chmury
+gdy wrzesień bez deszczów będzie w zimie wiatru pełno wszędzie
+gdyby babcia miała drucik to by było radio
+gdyby babcia miała wąsy to by była dziadkiem
+gdyby ciocia miała wąsy byłaby wujaszkiem
+gdyby kózka nie skakała toby nóżki nie złamała
+gdzie cztery nianie tam dziecko bez nosa
+gdzie drwa rąbią tam wióry lecą
+gdzie dwóch Polaków tam trzy zdania
+gdzie dwóch się bije tam trzeci korzysta
+gdzie głowa rządzi tam człowiek nie błądzi
+gdzie moda panią rozum sługą
+gdzie moda w mowie tam pustka w głowie
+gdzie są mądrzy tam muszą być i mędrkowie
+gdzie siła głów do rady i siła rąk do wykonania tam sprawy oporem idą
+gdzie siła włada - rozumu „nie nada”
+gdzie Słowianin tam i pieśni
+głaszcz chama to Cię kopnie Kopnij chama to Cię pogłaszcze
+głowa warta kapelusza a kapelusz wart niewiele
+głową ludzie i rządy stoją
+głowy się trzymaj byś nie stracił głowy
+głupcy wiążą węzły a mędrcy je rozwiązują
+głupi a mocny bywa owocny
+głupi marzy o bogactwie a mądry o szczęściu
+głupi nie jest ten co się głupim robi ale ten co swojej roboty nie umie dobrze przedstawić
+głupi jak chce kogo pochwalić jeszcze zgani
+głupiec głową naprzód wszędzie wpada
+głupiec głupca a diabeł diabła chwali
+głupiego i bieda nie nauczy rozumu
+głupota ludzka nie ma granic
+gorzkie lekarstwo słodko leczy
+gość w domu - baba w ciąży
+groźniejsze jest wojsko jeleni przy lwie hetmanie niż wojsko lwów przy hetmanie jeleniu
+grzmot listopada dużo zboża zapowiada
+hulaj dusza piekła nie ma
+hulaj duszo piekło gore!
+hulaj duszo pókiś młoda
+husarz prosi Boga o wojnę a lekarz o febrę
+i ja waść i ty waść a kto będzie świnie paść?
+i koń hardo stąpa gdy w bogatym rzędzie
+i kwaśne jabłko robak toczy
+i na równej drodze można się potknąć
+i prosię jak młode to ładne
+im dalej w las tym więcej drzew
+im dąb starszy tym korzeń twardszy
+im bucik starszy tym bardziej nosa zadziera!
+im kto mniej wart tym wyżej głowę nosi
+im kto więcej ma tym więcej chce
+im mniej wiesz tym spokojniej śpisz
+im pies mniej szczeka tym bardziej gryzie
+im więcej w grudniu pogody tym więcej wiosną wody
+im wyżej siedzisz z tym większym hukiem zlecisz
+idzie luty podkuj buty
+jajko mądrzejsze od kury
+jak baba zechce to da i przez dziurkę od klucza
+jak Bóg zagrzmi to chłop do pacierza
+jak Cię widzą tak Cię piszą
+jak gospodarz gościnny to i ściany się rozszerzają
+jak kamień w wodę
+jak krew w piach
+jak Kuba Bogu tak Bóg Kubie
+jaka marchew taka nać - taka córka jaka mać jakie drzewo taki klin - jaki ojciec taki syn
+jak masz cug a nie masz ciągu - popij czystej z wodociągu
+jak na świętego Antoniego chmurki to z ziemniakami na górki
+jak nie ma panny Marianny dobra i Maryśka
+jak pies je to nie szczeka bo mu miska ucieka
+jak się cenisz tak Cię cenią
+jak się chce psa uderzyć kij się znajdzie
+jak się człowiek śpieszy to się diabeł cieszy
+jak się matka z córką zgłosi tak się koniec grudnia nosi
+jak się nie ma co się lubi to się lubi co się ma
+jak się powiedziało „a” pora powiedzieć „b”
+jak sobie pościelesz tak się wyśpisz
+jak spadać - to z dobrego konia
+jak suka nie da to pies nie weźmie
+jak trwoga to do Boga
+jak ty komu tak on tobie
+jak wilk komarowi pomoże to komar i konia zmoże
+jak za króla Sasa Jedz pij i popuszczaj pasa
+jaka matka taka natka
+jaka głowa taka mowa
+jaka praca taka płaca
+jaka ziemia taka góra jaka matka taka córa
+jakie drzewo taki klin jaki ojciec taki syn
+jakie jabłko taka skórka jaka matka taka córka
+jakie pytanie taka odpowiedź
+jakie „Szczęść Boże” takie „Bóg zapłać”
+jakie życie taka śmierć
+jaki korzeń taka nać taka córka jaka mać
+jaki pan taki kram
+jeden byka doi drugi sito podstawia!
+jedna jaskółka wiosny nie czyni
+jednym uchem wchodzi a drugim wychodzi
+jesień tego nie zrodzi czego wiosna nie zasiała
+jeszcze się taki nie urodził co by każdemu dogodził
+jeśli moje zdanie dobrze mówisz Janie
+jeśli nie potrafisz nie pchaj się na afisz
+jeśli wejdziesz miedzy wrony musisz krakać jak i one
+jeżeli pszczoła w styczniu z ula wylatuje rzadko pomyślny rok nam obiecuje
+kapelusik z piórami a wszy wyłażą dziurami
+kapelusz sombrero a w kieszeni zero
+karp - ryba jeleń - zwierzyna
+kawałek chleba nie spadnie z nieba - pracą na niego zarobić trzeba
+każda broń palna raz do roku strzela sama
+każda krowa swoje cielę liże
+każde błoto ma swego diabła
+każde grabie do siebie grabią
+każdy jest kowalem swego losu
+każdy kij ma dwa końce
+każdy kogut na swych śmieciach śmielszy
+każdy ma to na co sobie zasłużył
+każdy się drapie gdzie go świerzbi
+kiedy Pan Bóg zamyka wszystkie drzwi zawsze zostawia jakieś uchylone okno
+kiedy styczeń najmroźniejszy wtedy roczek najpłodniejszy
+kiedy w styczniu lato w lecie zima za to
+kląć jak szewc
+kłamstwo ma krótkie nogi
+kobiety płaczą przed ślubem a mężczyźni po ślubie
+kochajmy się jak bracia liczmy się jak Żydzi
+kochanego ciała nigdy za wiele
+kochanie gorzej jak więzienie: z więzienia wyzwolą z kochania nie zdolą
+kogo nie boli temu powoli
+kogo Pan Bóg chce zgubić temu najpierw rozum odbiera
+kogo Pan Bóg kocha temu krzyżyk daje
+kogut myślał o niedzieli a w sobotę łeb ucięli
+kombinuje jak koń pod górę
+komu księżyc świeci temu i gwiazdy błyszczą
+komu w drogę temu czas
+koniec języka za przewodnika
+kowal zawinił cygana powiesili
+kruk krukowi oka nie wykole
+krowa która dużo ryczy mało mleka daje
+krzykiem skrzypiec nie nastroisz
+kto chleba nie chce nie wart i kołacza
+kto daje i odbiera ten się w piekle poniewiera
+kto do ciebie z kamieniem - ty do niego z chlebem
+kto gardzi chlebem nie będzie miał i bułki
+kto nie ma nic nie ma nic do stracenia
+kto nie pracuje ten nie je
+kto nie widział ołtarza i piecu się kłania
+kto nie winien - ten się bać nie powinien kto nabroił - niech się boi
+kto nigdy głodu nie czuje temu i nie smakuje
+kto ma dużo roli - ten się najada do woli kto ma mórg niewiele - temu głód przyjacielem
+kto ma księdza w rodzie tego bieda nie ubodzie
+kto ma morgi krowy świnie tego zawsze głód ominie
+kto ma pobrzękacze ma i posługacze
+kto ma pszczoły ten ma miód kto ma dzieci ten ma smród
+kto ma wioski ma troski
+kto ma złota worek przed tym wszystkie drzwi otworem
+kto mieczem wojuje ten od miecza ginie
+kto na końcu wygrywa bierze pieniądze
+kto nie skropił chleba łzami nie będzie miał apetytu
+kto nie skropił chleba potem nie będzie miał apetytu
+kto pierwszy ten lepszy
+kto po wódce wylewny u tego sekret niepewny
+kto pod kim dołki kopie ten sam w nie wpada
+kto pyta ten nie błądzi
+kto rano wstaje temu Pan Bóg daje
+kto rano wstaje ten jest niewyspany
+kto raz z diabłem płynął musi go zawsze wozić
+kto sieje wiatr ten zbiera burze
+kto się buduje procesuje i leczy tego bieda ćwiczy
+kto się ceni ten się leni
+kto się czubi ten się lubi
+kto się mądrzejszym czuje ten głupszemu ustępuje
+kto się przerzuci z wódki na mleko nie pociągnie daleko
+kto skończył siew może spać do żniw
+kto w błoto wpadnie ten suchy nie wstanie
+kto w cudzej stodole młóci i w jego odmłócą
+kto wysoko lata ten nisko siada
+kto występnym przebacza ten niewinnych będzie karał
+kto zakosztuje dobrego nie patrzy na biedniejszego
+kto ze sobą nosi nikogo nie prosi
+kto ziarno sieje ten przed burzą zwieje
+kuj żelazo póki gorące
+kwiecień - plecień co przeplata trochę zimy trochę lata
+kwiecień gdy deszczem plecie maj wystroi w kwiecie
+konia kują żaba nogę podstawia
+leje jak z cebra
+lepiej „być” niż „mieć”
+lepiej być pięknym i bogatym niż brzydkim i biednym
+lepiej byle jak siedzieć niż dobrze stać
+lepiej dmuchać na zimne niż się gorącym sparzyć
+lepiej dać kije stu niewinnym jak puścić płazem jednemu winnemu
+lepiej dosadzić niż przesadzić
+lepiej dźwigać jak ścigać
+lepiej mieć co zdjąć niż nie mieć czego założyć
+lepiej nie dolać jak przelać
+lepiej nie dosolić niż przesolić
+lepiej nie grzeszyć niż do pokuty śpieszyć
+lepiej nosić niż prosić
+lepiej późno niż wcale
+lepiej się ukłonić głowie niż ogonowi
+lepiej z mądrym pieczeń obracać niż z głupim ją jeść
+lepiej z mądrym zgubić niż z głupim znaleźć
+lepiej ze swoimi płakać niż z obcymi skakać
+lepiej zjeść i odchorować niż się miałoby zmarnować
+lepiej zrozumieć mało niż zrozumieć źle
+lepiej żałować że się coś zrobiło niż żałować że się nic nie zrobiło
+lepiej żartować niż chorować
+lepiej że na głowie niż w głowie łyso
+lepsza cnota niż wóz złota
+lepsza jedna panna niż cztery wdowy
+lepsza u matki polewka niż u obcych marcepany
+lepsza byle jaka prawda niż dobre kłamstwo
+lepsze dziś jajko niż jutro kokosza
+lepsze jedno lato jak dwie zimy
+lepsze jest wrogiem dobrego
+lepsze swoje na smole niż czyje w rosole
+lepszy chleb z solą z dobrą wolą niż marcepan z niewolą
+lepszy dukat przed procesem niźli trzy po procesie
+lepszy funt rozumu niż cetnar dowcipu
+lepszy gram handlu niż kilo roboty
+lepszy mądry wróg niż głupi przyjaciel
+lepszy na wolności kąsek lada jaki niźli w niewoli przysmaki
+lepszy rydz niż nic
+lepszy własny chleb niż pożyczona bułka
+lepszy wróbel w garści niż gołąb na dachu
+lepszy wróbel w ręku niż cietrzew na sęku
+lepszy żywy lis niż martwy lew
+licho nie śpi
+ładna buzia to połowa posagu
+ładnemu we wszystkim ładnie
+ładny kwiatek krótko przy drodze stoi
+łagodność uśmierza ból
+łagodność wszystkiego dokaże
+łaska pańska na pstrym koniu chadza
+łaska pańska na pstrym koniu jeździ
+łatwiej brać niż dać
+łatwiej coś zganić niż zrobić
+łatwiej kołek obcinkować niż go później pogrubasić
+łatwiej komu radzić niż dopomóc
+łatwiej nauczyć się kląć niż czytać
+łatwiej obiecać niż dotrzymać
+łatwiej pałac skrytykować niż psu budę postawić
+łatwiej popsuć niż naprawić
+łatwiej słuchać niż rozkazywać
+łatwiej sto pcheł upilnować niż jednej dziewczyny
+łatwiej wojnę zacząć niż ją skończyć
+łatwiej z góry jak pod górę
+łatwiej zranić niż leczyć
+łatwo być hojnym z cudzego
+łatwo cudzym szafować
+łatwo przyszło - łatwo poszło
+łatwowierność rodzi oszustów
+łut szczęścia lepszy niż cetnar rozumu
+łyżka dziegciu beczkę miodu zepsuje
+ma coś z rycerza - zakuty łeb
+maj z grzmotami - rok dobry przed nami
+małe dzieci - mały kłopot duże dzieci - duży kłopot
+małe pieski najwięcej szczekają
+masz babo placek
+mądra matka dba o swe córki
+mądrej głowie dość dwie słowie
+mądrej głowy włos się nie trzyma
+mądry głupiemu zawsze ustępuje
+mądry Polak po szkodzie
+mężczyzna powinien być tylko trochę ładniejszy od diabła
+miłe złego początki
+modli się pod figurą a diabła ma za skórą
+mokry deszczu się nie boi
+mowa jest srebrem a milczenie złotem
+mówił dziad do obrazu a ten do niego ani razu
+mieć dwie lewe ręce
+miłość od pierwszego wejrzenia
+mój dom jest moją twierdzą
+muru głową nie przebije a morza nikt nie wypije
+myślał indyk o niedzieli a w sobotę łeb mu ścieli
+na Agnieszkę mróz składaj chłopie wóz
+na Alberta sianokosów pełna sterta
+na Andrzeja mróz gotuj na zimę wóz a jak taje to znów sanie
+na bezrybiu i rak ryba
+na frasunek dobry trunek
+na głupiej głowie i włos się nie utrzyma
+na języku miód a w sercu lód
+na koniu jedzie a konia nie widzi
+na Nowy Rok pogoda - będzie w polu uroda na Nowy Rok pluta - będzie w polu pokuta
+na Nowy Rok przybywa dnia na barani skok
+„Na oko” - to chłop w szpitalu leżał
+na pieniądzach świat nie stoi
+na pochyłe drzewo każda koza wlezie
+na to daje gębie papać by umiała dobrze kłapać
+na świętą Annę mrowiska szukaj w zimie ogniska
+na świętego Albina rzadka u ludzi mina bo post się zaczyna
+na świętego Andrzeja kurom w polu nadzieja
+na świętego Dygdy co go nie ma nigdy
+na święty Ambroży poprawią się mrozy
+na święty Antoni pierwsza się jagódka zapłoni
+na Gromniczną mróz - ładuj chłopie wóz na Gromniczną ciecze - to się zima wlecze
+na święty Walenty uciekają z domu centy
+na to ma kowal kleszcze żeby sobie rąk nie sparzyć
+na złodzieju czapka gore
+nadgorliwość gorsza od faszyzmu
+nadzieja - matką głupich
+nadzieja umiera ostatnia
+najciężej strzemiona dopaść to się i na koń dostanie
+najgorszy jest diabeł wtenczas kiedy się modli
+najgorzej jak komu woda sodowa uderzy do głowy
+najlepsze mienie - czyste sumienie
+najpierw klęczy prosi szlocha potem krzyczy: dość wynocha!
+natura ciągnie wilka do lasu
+nauka nie poszła w las
+nawet mistrzowi nie zaszkodzi nauka
+ni brat ni swat
+na stary picy młody ogier sie ćwicy
+ni do rady ni do zwady
+ni do szabli ni do kądzieli
+ni pies ni wydra
+ni prośbą ni groźbą
+ni przypiął ni przyłatał
+ni przypiął ni wypiął
+ni to pies ni wydra coś na kształt świdra
+ni to pies ni zając
+ni w Boga wierzy ni się diabła boi
+ni widu ni słychu
+ni w pięć ni w dziewięć
+ni zdolności ni ochoty
+ni z gruszki ni z pietruszki
+nic mu nie będzie bo głupi
+nic tak dobrze nie przenika jak gorzałka do przełyka
+nie bądź w gorącej wodzie kąpany
+nie boi się wilk psa tylko szczekania jego
+nie budź licha kiedy śpi
+nie chce góra przyjść do Mahometa musi Mahomet przyjść do góry
+nie chwal dnia przed zachodem słońca
+nie czas żałować róż gdy płoną lasy
+nie człowiek życie wymyślił ale takim je zastał
+nie czyń bliźniemu co tobie niemiłe
+nie dasz chłopakom to dasz robakom
+nie dla pieniędzy się żyje lecz za nie
+nie dla psa kiełbasa nie dla kota spyrka
+nie dla psa kiełbasa nie dla prosiąt miód
+nie dolewaj oliwy do ognia
+nie dziel skóry na niedźwiedziu
+nie głaskaj kota pod włos
+nie idź spać w gniewie bo czy się obudzisz - nie wiesz
+nie ilość - lecz jakość
+nie jednemu psu Burek na imię
+nie każda głowa siwa mądra bywa
+nie kąsa się ręki która karmi
+nie kijem go to pałą
+nie kładź palca między drzwi
+nie kracz nie kracz bo wykraczesz
+nie kupuj kota w worku
+nie ma głupich pytań są tylko głupie odpowiedzi
+nie masz cwaniaka nad Warszawiaka
+nie masz wina nad węgrzyna
+nie ma tego złego co by na dobre nie wyszło
+nie ma dymu bez ognia
+nie ma miłości bez zazdrości
+nie ma róży bez kolców
+nie ma reguły bez wyjątku
+nie ma tego złego co by na dobre nie wyszło
+nie ma to jak we własnym domu
+nie masz na upór lekarstwa
+nie miała baba kłopotu kupiła sobie prosię
+niemiła księdzu ofiara chodź cielę do domu
+nie można dwom panom służyć
+nie mów co myślisz - myśl co mówisz
+nie mów hop póki nie przeskoczysz
+nie mów nikomu co się dzieje w domu
+nie mów nikomu co tobie niemiłe
+nie mów o nikim nie będą o tobie
+nie na to żyjemy byśmy jedli i pili lecz na to pijem i jemy abyśmy żyli
+nie nos dla tabakiery lecz tabakiera dla nosa
+nie odkładaj na jutro tego co masz zrobić dziś
+nie od razu Kraków zbudowano
+nie pluj w studnię bo może ci przyjść kiedyś czerpać z niej wodę
+nie po to głowa by na niej czapkę nosić
+nie pożyczaj zły obyczaj
+nie pożyczywszy - na tydzień gniewu pożyczywszy - na cały rok
+nie pomoże mydło ani malowidło ani studnia wody jak nie ma urody
+nie pomoże puder róż kiedy gęba stara już
+nie pomoże uczoność ani nieskończoność ani fura sprzętu jak nie ma talentu
+nie przebieraj panno żebyś nie przebrała żebyś za kanarka wróbla nie dostała
+nie przesadza się starych drzew
+nie rozdzielaj włosa na czworo
+nie rozdzielaj włosa zapałki na czworo
+nie rzucaj pereł między wieprze
+nie rzucaj słów na wiatr
+nie samym chlebem człowiek żyje
+nie sądź a nie będziesz sądzony
+nie skryje diabeł końskiego kopyta
+nie szata zdobi człowieka
+nie szata zdobi człowieka lecz człowiek szatę
+nieszczęścia chodzą parami
+nie śmiej się dziadku z czyjegoś wypadku - dziadek się śmiał i to samo miał
+nie święci garnki lepią
+nie taki diabeł straszny jak go malują
+nie ten święty co zgięty
+nie to ładne co piękne ale co się komu podoba
+nie ucz księdza pacierza
+nie ucz matki jak się dzieci robi
+nie ucz ojca dzieci robić
+nie udawaj Greka
+nie warto płakać nad rozlanym mlekiem
+nie wchodzi się dwa razy do tej samej rzeki
+nie wie głowa co język bełkocze
+nie wierz nigdy dziewucho coć chłop szepce na ucho
+nie wierz nigdy mężczyźnie to słodki cukierek maczany w truciźnie
+nie wsadzaj nosa do cudzego prosa
+nie wszystko da się kupić za pieniądze
+nie wszystko się godzi co wolno
+nie wszystko złoto co się świeci
+nie wścibiaj nosa gdzieś nie dał grosza
+nie wtykaj kija w mrowisko
+nie wtykaj nosa w nie swoje sprawy
+nie wychylaj nosa to ci go nie przytrą
+nie wykręcaj kota ogonem
+nie wywołuj wilka z lasu
+nie zabija się kury znoszącej złote jajka
+nie z jednego pieca jadł chleb
+nie zmienia się koni podczas przeprawy przez rzekę
+nie życz złego nikomu byś tego nie zastał w domu
+niech ci Pan Bóg w dzieciach wynagrodzi
+niech to będzie kłak czy wełna - byle była kiszka pełna
+niech ten rządzi co ma mądzi a kto ma one niech idzie na strone
+niedaleko pada jabłko od jabłoni
+niejeden rekin sobie życzy by dorodna szprotka wiodła go na smyczy
+nigdy nie jest tak źle żeby nie mogło być gorzej ani tak dobrze żeby nie mogło być lepiej
+nigdy nie mów „nigdy”
+nigdy nie należy palić za sobą wszystkich mostów
+nigdy nie pluj pod wiatr
+nikt nie jest dobrym sędzią w swojej własnej sprawie
+nikt nie jest prorokiem między swymi
+nikt nie odgadnie co u kogo w sercu na dnie
+nikt się mądrym nie rodzi ale staje
+nikt swego garbu nie widzi
+nim się baba uszpili chłop przejdzie pół mili
+nosić drzewo do lasu
+nosi go jak Żyda po pustym sklepie
+nosił wilk razy kilka ponieśli i wilka
+nowa miotła lepiej zamiata
+nowe koła skrzypią
+nowego kłamstwa słucha się chętniej niż starej prawdy
+nowy Rok pogodny - zbiór będzie dogodny
+nudne jak flaki z olejem
+nudy na pudy
+o pieniądzach się nie mówi pieniądze się ma
+obijać się jak Żyd po pustym sklepie
+od piwa głowa się kiwa
+od starych kruków młode uczą się krakać
+od wódki rozum krótki
+od przybytku głowa nie boli
+od Sasa do Lasa
+ogień i woda dobrzy słudzy lecz źli gospodarze
+od świętej Anki zimne wieczory chłodne poranki
+oliwa sprawiedliwa zawsze na wierzch wypływa
+palec skaleczysz - cała ręka boli
+paluszek i główka to szkolna wymówka
+pan Bóg stworzył wieś a człowiek miasto
+papier jest cierpliwy: wszystko przyjmie
+pasuje jak piąte koło u wozu
+pasuje jak pięść do nosa
+pasuje jak garbaty do ściany
+pasuje jak kwiatek do kożucha
+pasuje jak wilk do pilnowania owiec
+pasuje jak świni siodło
+pasuje jak wół do karety
+patrzy jak cielę na malowane wrota
+patrzy jak sroka w gnat
+październik ciepły będzie luty strzepły
+póki życia póty nauki
+póty dzban wodę nosi póki się ucho nie urwie
+pan każe - sługa musi
+pańskie oko konia tuczy
+pan Bóg nie rychliwy ale sprawiedliwy
+pan Bóg stworzył byka - i byk był; a chłop wziął kozika urżnął mu u dołu i stworzył wołu
+pieniądze szczęścia nie dają
+pierwej rozważ potem odważ
+pierwsze koty za płoty
+pierwsze pół życia żyjemy marzeniami a drugie pół - wspomnieniami
+pierwsze śliwki - robaczywki
+pies ogrodnika; samemu nie zje i drugiemu nie da
+pijak podobny jest do zwierza: ni do roboty ni do pacierza
+plotka wyleci wróblem a powróci wołem
+po burzy zawsze słońce przychodzi
+po karnawale - czas na gorzkie żale
+po każdej nocy wschodzi słońce
+po świętej Agacie wyschną na słońcu gacie
+po tłuste cielę i do domu trafią a chudego i na targu nie kupią
+pod latarnią najciemniej
+podłość ludzka nie ma granic
+podobni jak dzień do nocy
+podróże kształcą
+poeta tylko głowa nie ta
+pokorne cielę dwie matki ssie
+polak Węgier dwa bratanki - i do szabli i do szklanki
+polska cnota: każdemu otworzyć wrota
+polski żołnierz w obozie - anioł w polu - lew
+porywać się z motyką na słońce
+postać anielska dusza diabelska
+pośpiech jest wskazany tylko przy łapaniu pcheł
+pośpiech jest złym doradcą
+potrzebne jak dziura w moście
+potrzebne jak zającowi dzwonek na polowaniu
+po winie rozum w głowie ginie
+poznać łatwo w starości jaki kto był w młodości
+poznać pana po cholewach
+poznać po mowie co kto ma w głowie
+poznasz głupiego po śmiechu jego
+pozory często mylą
+praca nie zając nie ucieknie
+pracuj a garb ci sam wyrośnie
+prawa są równie jako pajęczyna: wróbel się przeciśnie a na muszkę wina
+prawda i cnota ginie od złota
+prawda jak oliwa - zawsze na wierzch wypływa
+prawda w oczy kole
+prawda zawsze zwycięża
+prawdziwa cnota krytyk się nie boi
+autor: Ignacy Krasicki
+prawdziwa wiedza to znajomość przyczyn
+prawdziwego przyjaciela poznaje się w biedzie
+proste drzewo nie rzuca garbatego cienia
+prosty czy krzywy - każdy chce być szczęśliwy
+„Proszę” „przepraszam” „dziękuję” - pomaga a nic nie kosztuje
+przed kim bramę zamkną niech do furtki puka
+przepadło jak kamień w wodę
+przepisy są po to aby je łamać
+przezorny - zawsze ubezpieczony
+przyganiał kocioł garnkowi a sam smoli
+przyjaciela szukaj blisko wroga daleko
+przyjaźń zawarta przy kieliszku wódki zwykle ma żywot krótki
+przyszła koza do woza
+przyszła kryska na Matyska
+psa głaskaj ale kija z ręki nie puszczaj
+punkt widzenia zależy od punktu siedzenia
+puścił się bez wiosła na morze
+pycha i z nieba spycha
+rób a rób zarobisz na grób
+ranne wstawanie i wczesna żeniaczka jeszcze nikomu nie zaszkodziły
+raz na wozie raz pod wozem
+ręka rękę myje
+reguła prosta że aż osłupia: kto się wymądrza ten się wygłupia
+rozmówił się jak gęś z prosięciem
+sam sobie powiedział i sam się uśmiał
+sam sobie sterem żeglarzem okrętem
+samotnemu cały świat pustynią
+samotny jak kołek w płocie
+sen mara - Bóg wiara
+sędzia nie ma być głodny
+siła złego na jednego
+siedzieć cicho jak mysz pod miotłą
+siejesz wiatr - zbierasz burze
+skąpy dwa razy traci
+chytry dwa razy traci
+skleroza nie choroba tylko nogi bolą
+skorego konia jeszcze batem pod górę
+skoro jest tak dobrze to dlaczego jest tak źle?
+słodkie życie - jak w Madrycie
+słońce i woda zawsze zdrowia doda
+słońcu i miłości nigdy się w oczy nie patrzy
+słowo się rzekło kobyłka u płota
+słówko wyleci wróblem a powróci wołem
+służ panu wiernie on ci za to pierdnie
+słuchaj uchem a nie brzuchem
+sport to zdrowie
+sposób na zdrowie człeka - od lekarzy z daleka
+sprawiedliwość bez dobroci okrucieństwem jest
+sprzedać się za miskę soczewicy
+stara miłość nie rdzewieje
+stare buty najwygodniejsze
+starego psa nie nauczysz aportować
+starego wróbla na plewy nie złapiesz
+stare psisko dobre jak leży pod płotem
+stare to są dobre: fortepian i skrzypce
+stare wino żona młoda niejednemu życia doda
+starość nie radość młodość nie wieczność
+starość nie radość śmierć nie wesele
+stary a głupi
+stary ale jary
+stoi jak wół na granicy
+strach ma wielkie oczy
+strachy na Lachy
+stroić się w cudze piórka
+strzeżonego Pan Bóg strzeże
+strzeż się psa milczącego i spokojnej wody
+styczeń pogodny wróży rok płodny
+suchy marzec mokry kwiecień i maj chłodny - wróżą rok niegłodny
+suchy marzec mokry maj będzie żytko niby gaj
+sumienie stoi za tysiąc świadków
+swoje brudy trzeba prać w domu
+swojego nie puszczaj po cudze nie sięgaj
+syty głodnego nie zrozumie
+szaleć jak pies spuszczony z łańcucha
+szczenięcej miłości wątek - pieskiego życia początek
+szczęściarzowi nawet wół się ocieli
+szczęście ciska ludźmi jak piłką
+szczęście człowieka psuje nieszczęście hartuje
+szczęście czego mi nie dało tego mi nie będzie brało
+szczęście dziś matką a jutro może być macochą
+szczęście głupim sprzyja
+szczęście gdy trafi na głupiego wszystkim go czyni nieznośnego
+szczęście karetą nie jeździ ale i w łachmanach nie chodzi
+szczęśliwi czasu nie liczą
+szewc bez butów chodzi
+szlachcic na zagrodzie równy wojewodzie
+szlachetne zdrowie nikt się nie dowie jako smakujesz - aż się popsujesz
+szukajcie a znajdziecie
+szukać igły w stogu siana
+szybka decyzja to połowa zwycięstwa
+szyby lecą szklarz się śmieje
+ściany mają uszy
+ślepy afekt i pamięć z człowieka wywlecze
+ślusarz zawinił a kowala powiesili
+śmiałby się człowiek dookoła głowy żeby nie uszy
+śmiech to zdrowie
+śmieje się jak głupi do sera
+śmierć i żona od Boga przeznaczona
+śniadanie zjedz sam obiadem podziel się z przyjacielem a kolację daj wrogowi
+śpiesz się powoli
+święta Agnieszka wypuszcza skowronka z mieszka
+święta Święta i po Świętach
+święty Alojzy miód w plastrach dojrzy
+święty Antoni o gryce siać przypomni
+święty Antoni od zguby broni
+święty Antoni złodziei goni
+świnia się nie myje - i żyje
+tak krawiec kraje jak mu materii staje
+tanie mięso psy jedzą
+tanie kupisz psom wyrzucisz
+temu czapkują przy kim pieniądz czują
+ten się nie myli kto nic nie robi
+ten się śmieje kto się śmieje ostatni
+tłumaczyć z polskiego na nasze
+tonący brzytwy się chwyta
+trafić z deszczu pod rynnę
+trafiła kosa na kamień
+trafiło się ślepej kurze ziarno
+trud człowieczy czas niweczy
+trudno dwóm panom służyć
+trunek mocny białogłowa grzeszna - z najmędrszego uczynią błazna
+trzej najlepsi lekarze: dr Spokój dr Dieta i dr Humor
+tu goli - i tam strzyże
+tu leży pies pogrzebany
+tylko głupiec dyskutuje z końskim zadem
+tylko krowa zdania nie zmienia
+tylko trzewik wie że pończocha dziurawa
+u wdowy chleb gotowy
+u skąpego zawsze po obiedzie
+ubóstwo cnoty nie traci
+ubóstwo nie hańbi
+ubóstwo nie jest ohydą
+ubóstwo nikogo nie krzywdzi
+ubóstwo szlachectwa nie traci
+ubóstwo uczciwe nie bywa wstydliwe
+ubogi żywi się jak może a bogaty jako chce
+ubogi mało ma przyjaciół
+ubogi nie ma tego owego a bogacz łakomy wszystkiego
+ubogi za psa u bogacza stoi
+ubogi jak mysz kościelna
+ubogiego zdanie: nie dba nikt na nie
+ubogiemu łacniej być dobrym
+ubogiemu dzieciątko bogatemu cielątko
+ubogiemu kawał chleba to most do nieba
+ubogiemu zawsze wiatr w oczy a droga pod górkę
+ubogiemu zawsze wiatr w oczy
+ubrał się jak dudek w pawie pióra
+ubrany jak pan a głupi jak baran
+ucieczka jest zawsze haniebna ale czasem zbawienna
+ucieczka winnym czyni
+ucieka świńskim truchtem
+ucieka aż się za nim kurzy
+ucieka jak Cygan na kradzionym koniu
+ucieka jak od zgniłego psa
+ucieka jak pies oparzony
+ucieka jak przed zbrojnymi goły
+ucieka jak zając przed chartem
+uciekającego i bojaźliwy goni
+uciekać nie ładnie ale pożytecznie
+ucz się ucz bo nauka to do potęgi klucz
+ucz swoje dzieci kamienie gryźć
+uczący drugich sam się uczy
+uczepił się jak pchła kożucha
+uczepił się jak rzep psiego ogona
+uczonego zawsze kochają nieuczonym wszędzie pogardzają
+uczonym nie łacno zostać
+uderz w stół a nożyce się odezwą
+umarłego płaczem nie wskrzesi
+umiesz liczyć licz na siebie
+upartego i kijem nie przekona
+upił się jak bąk
+upił się jak świnia
+uroda rzecz nietrwała
+urodził się - ochrzcili podrósł - ożenili umarł - pochowali i na grobie napisali że był błazen
+uszom prędzej można dogodzić niż oczom
+w adwenta same posty i święta
+w czerwcu się okaże co nam rok da w darze
+w dnie kieliszka wszystko znika
+w krótkie dzionki października wszystko z pola z sadu znika
+w lipcu dzień mglisty jesienią czas dżdżysty
+w lipcu upały - wrzesień doskonały
+w lipcu upały w grudniu mróz ostry i stały
+w listopad liść z drzewa opadł
+w listopadzie ziemia ciepła zima będzie skrzepła
+w lutym aura burzowa - wiosna rychliwa
+w lutym śnieg i mróz stały czynią w lecie upały
+w marcu jak w garncu
+w marcu śnieżek sieje a czasem słonko grzeje
+w Narodzenie Panny Marii pogodnie będzie tak cztery tygodnie
+w piątek zły początek
+w starym piecu diabeł pali
+w święty August koniec burz
+w tym największy jest ambaras żeby dwoje chciało na raz
+w zdrowym ciele zdrowy duch
+wesoło w maju ze słowikiem w gaju
+widać po słowie co u kogo w głowie
+wiedzą sąsiedzi jak kto siedzi
+wielki jak brzoza a głupi jak koza
+więcej dogryzie psiarnia kundlów niż jeden brytan
+większa moc boska niż złość ludzka
+wstyd bardziej niż plaga boli
+wszędzie dobrze ale w domu najlepiej
+wszędzie dobrze gdzie nas nie ma
+wszystko dobre co się dobrze kończy
+wszystko ma swój koniec
+wszystko co dobre szybko się kończy
+wybiera się jak sójka za morze
+wysoki do nieba a głupi jak trzeba
+wysoki jak brzoza a głupi jak koza
+wysoki jak topola a głupi jak fasola
+wystroił się jak stróż w Boże ciało
+wyszło szydło z worka
+wyśpisz się po śmierci
+z armatą na muchę
+z deszczu pod rynnę
+z dużej chmury mały deszcz
+z dzieła poznaje się człowieka
+z jedynaka jak nie pies to sabaka
+z kim szczęście na ukos i kury nań gdaczą
+z pustego i Salomon nie naleje
+z tej mąki chleba nie będzie
+za Augusta ziemia pusta
+za babą i diabeł nie trafi
+za cierpienie da Bóg zbawienie
+za dukata brat sprzeda brata
+za grosz cię powieszą a za dukata ujdziesz
+za króla Olbrachta wyginęła szlachta
+za mundurem panny sznurem
+zapomniał wół jak cielęciem był
+zawodu szewca trzeba się wyuczyć a do wyższych stanowisk wystarczy sukienka duchowna
+zawsze to znać co kundel a co wyżeł
+zbój zbója pogoni
+zgoda buduje niezgoda rujnuje
+ziarnko do ziarnka aż zbierze się miarka
+zjedli diabli krowę niech zjedzą i cielę
+złe gospodarstwo gdzie kądziel przewodzi nad mieczem
+złego diabli nie biorą
+złej baletnicy szkodzi rąbek przy spódnicy
+zrób dziś co masz zrobić jutro
+zrób komu dobrze to ci da po ziobrze
+źle się w marcu urodzić bo trudno takiemu dogodzić
+żebro Adamowe nie przynosi tak wiele pożytku jak szkody
+żeby ciocia miała wąsy toby była wujkiem
+żeby dać trzeba mać
+żeby kózka nie skakała to by nóżki nie złamała
+żeby nie ten „dech” toby człowiek zdechł
+żyd żyda ksiądz księdza o sto mil zwietrzy
+agnieszka li łaskawa wkrótce w polu zabawa; Agnieszka li nielusa jeszcze zimie pokusa
+agnieszka łaskawa puszcza skowronka z rękawa
+bartłomiej zwiastuje jaka jesień następuje i czy w przyszłym latku dożyjesz dostatku
+bartłomiej zwiastuje jaka jesień następuje
+bartłomieja cały wrzesień naśladuje i z nim jesień
+bartłomieja świętego dzień w jakiej zostaje porze taką jesień bez ochyby daje
+choć dziś Anastazy pal w piecu dwa razy
+deszcz św Jana obiecuje mokre żniwa
+deszcz w św Floriana skrzynia groszem napchana
+gdy na św Barbarę gęś chodzi po lodzie to Boże Narodzenie będzie po wodzie
+gdy w św Barbarę gęś po stawie chodzi w Boże Narodzenie pływać po nim się godzi
+gdy na św Bernarda ziemia twarda zima będzie harda
+gdy przyjdzie św Agnieszka przebije lód ogonem pliszka
+gdy się deszcz w święto Jana opuści obfity po nim w kilka dni wierz mi bywa pozbyty
+gdy w dzień Adama i Ewy mróz i pięknie zima wcześnie pęknie
+gdy w św Barbarę ostre mrozy to na zimę gotuj wozy; a gdy roztajanie każ opatrzyć sanie
+jak na św Agnieszkę mróz to wygryzki do nawozu włóż
+jak w świętą Annę deszcz pada to robak orzechy zjada
+jaki Bartek niesie dzień takąć będzie i jesień
+jaki Bartek niesie dzień takąż będzie i jesień
+jaki Bartek taki wrzesień jaki Marcin taka zima
+jeśli na Agnieszkę pochmurno to o len nie trudno; a jeśli jasno to o len ciasno
+jeśli święta Agnieszka wypuści skowronka z mieszka to już zima na ziemi długo nie pomieszka
+jeżeli w dzień św Jacka deszcz nie pada będzie jesień sucha
+kiedy na św Barbarę błoto będzie zima jak złoto
+kiedy w św Barbarę mróz to chłopie sanie na górę włóż
+gdy na św Barbarę mróz sanie na górę włóż a szykuj dobry wóz
+kiedy w św Barbarę mróz to szukaj chłopie dobry wóz
+kiedy w św Barbarę mróz to szykuj chłopie dobry wóz
+na Bartłomieja jeleń w wodę wskoczy
+na dzień św Doroty ma być śniega nad płoty
+na Kazimiera zima umiera
+na św Agatę wysuszysz na słońcu szmatę
+na św Agnieszkę wychodzi woda na ścieżkę
+na św Ambroży poprawiają się mrozy
+na św Annę mrowiska szukaj w zimie ogniska
+na św Barbarę jeżeli mróz i pogoda zima będzie lekka i bez śniegu
+na św Bartłomieja mroźnej zimy jest nadzieja
+na św Franciszka zielenią się łany i ze swego zimowiska wracają bociany
+na św Grzegorza zima idzie do morza
+na św Grzegorza idą rzeki do morza
+na św Grzegorza pójdzie zima do morza
+jak odwilż na św Grzegorza to pójdzie zima do morza
+na św Grzegorza ucieka śnieg do morza
+od św Agnieszki już posprzątaj z drzew liszki a jeśli mróz tęgi szczep gonty i dęgi; radź o drzewie o stodole nawozy też wywóź w pole
+od świętej Anki zimne wieczory i ranki
+od św Anki zimne poranki
+od św Anny nie doczeka południa deszcz poranny
+po św Agacie wyschnie bielizna na płocie
+po św Agnieszce napije się wół na ścieżce
+po św Ewie chodzi się w cholewie
+po św Bartłomieju z łyżki deszczu ceber błota
+serwacy Pankracy Bonifacy - zły na ogród chłopacy
+susza w św Bartłomieja mroźnej zimy jest nadzieja
+św Barbara chłopa utopi albo umrozi
+św Barbara po lodzie Boże Narodzenie po wodzie
+św Barbara po wodzie Boże Narodzenie po lodzie
+św Hanna to już jesienna panna
+św Agnieszki pół zimy końskiej
+św Bartłomiej pogodny jesień pogodna
+św Zofija kłosy rozwija
+w dzień św Agaty jeśli słonko przez okienko zajrzy do chaty to wiosenka na świat poogląda zza zimowej kraty
+baba śląska: w barach szeroka w dupie wąska
+gówno lepiej obejść jak ruszyć
+jak nie urok to sraczka
+jak się nie odwrócić - zawsze dupa z tyłu
+każde gówno źle pachnie
+mów do słupa a słup dupa
+na św Bartłomiej z dupą pod płomień!
+nie rozrabiaj nie podskakuj siedź na dupie i przytakuj
+nie widziała dupa słońca zagorzała od miesiąca
+pasuje jak kij do dupy
+samotny jak palec w dupie
+swoje - do kupki czyje - do dupki
+taki z niego muzykant jak z koziego ogona klarnet a z koziej dupy trąba
+wyżej dupy nie przeskoczysz
+wyżej dupy nie podskoczysz
+apetyt rośnie w miarę jedzenia
+bez pracy nie ma kołaczy
+biednemu zawsze wiatr w oczy
+być kulą u nogi
+być pracowitym jak pszczoła
+cel uświęca środki
+cisza jak makiem zasiał
+co Cię nie zabije to Cię wzmocni
+co dwie głowy to nie jedna
+co kraj to obyczaj
+co ma wisieć nie utonie
+co ma piernik do wiatraka?
+co się odwlecze to nie uciecze
+co z oczu to z serca
+co za dużo to niezdrowo
+czego Jaś się nie nauczy tego Jan nie będzie umiał
+czuć się jak ryba w wodzie
+czym chata bogata tym gościom rada
+darowanemu koniowi w zęby się nie zagląda
+dla chcącego nic trudnego
+do wesela się zagoi
+drzeć z kimś koty
+dzieci i ryby głosu nie mają
+gdy kota nie ma myszy harcują
+gdy się człowiek spieszy to się diabeł cieszy
+gdzie kucharek sześć tam nie ma co jeść
+głupi ma zawsze szczęście
+gość w dom - Bóg w dom
+grosz do grosza a będzie kokosza
+hulaj dusza piekła nie ma
+idzie luty podkuj buty
+jajko mądrzejsze od kury
+jaka praca taka płaca
+jak Cię widzą tak Cię piszą
+jak kamień w wodę
+jak Kuba Bogu tak Bóg Kubie
+jak pies je to nie szczeka bo mu miska ucieka
+jak się nie ma co się lubi to się lubi co się ma
+jak sobie pościelesz tak się wyśpisz
+jak trwoga to do Boga
+jedna jaskółka wiosny nie czyni
+każdy jest kowalem swego losu
+kląć jak szewc
+kłamstwo ma krótkie nogi
+kogut myślał o niedzieli a w sobotę łeb ucięli
+komu w drogę temu czas
+kto pierwszy ten lepszy
+kto pod kim dołki kopie ten sam w nie wpada
+kto pyta nie błądzi
+kto rano wstaje temu Pan Bóg daje
+kto się czubi ten się lubi
+kuj żelazo póki gorące
+kwiecień - plecień co przeplata trochę zimy trochę lata
+leje jak z cebra
+lepiej nosićjak się prosić
+lepsza byle jaka prawda niż dobre kłamstwo
+lepszy rydz niż nic
+licho nie śpi
+lepszy wróbel w garści niż gołąb na dachu
+ładnemu we wszystkim ładnie
+łatwo przyszło - łatwo poszło
+małe dzieci - mały kłopot duże dzieci - duży kłopot
+masz babo placek
+miłego złe początki
+mądry Polak po szkodzie
+mowa jest srebrem a milczenie złotem
+mówił dziad do obrazu a ten do niego ani razu
+nadzieja - matką głupich
+ni prośbą ni groźbą
+ni z gruszki ni z pietruszki
+nie bądź w gorącej wodzie kąpany
+nie chce góra przyjść do Mahometa musi Mahomet przyjść do góry
+nie chwal dnia przed zachodem słońca
+nie czas żałować róż gdy płoną lasy
+nie dziel skóry na niedźwiedziu
+nie dolewaj oliwy do ognia
+nie kupuj kota w worku
+nie ma dymu bez ognia
+nie ma to jak we własnym domu
+nie ma tego złego co by na dobre nie wyszło
+nie mów hop póki nie przeskoczysz
+nie mów drugiemu co tobie nie miłe
+nieszczęścia chodzą parami
+nie płacz nad rozlanym mlekiem
+nie wchodzi się dwa razy do tej samej rzeki
+nie wszystko złoto co się świeci
+nie wywołuj wilka z lasu
+nudy na pudy
+od przybytku głowa nie boli
+paluszek i główka to szkolna wymówka
+pasuje jak wół do karety
+pieniądze szczęścia nie dają
+pierwsze koty za płoty
+pod latarnią najciemniej
+prawda w oczy kole
+przyszła koza do woza
+przyszła kryska na Matyska
+raz na wozie raz pod wozem
+stara miłość nie rdzewieje
+starość nie radość młodość nie wieczność
+stary ale jary
+strach ma wielkie oczy
+strzeżonego Pan Bóg strzeże
+szewc bez butów chodzi
+szukajcie a znajdziecie
+szukać igły w stogu siana
+ten się śmieje kto się śmieje ostatni
+trafiła kosa na kamień
+trafić z deszczu pod rynnę
+w marcu jak w garncu
+wszystko co dobre szybko się kończy
+wybiera się jak sójka za morze
+wystroił się jak stróż w Boże ciało
+wyśpisz się po śmierci
+wyszło szydło z worka
+w zdrowym ciele zdrowy duch
+zapomniał wół jak cielęciem był
+zgoda buduje niezgoda rujnuje
+złego diabli nie biorą
+z pustego i Salomon nie naleje
+żeby kózka nie skakała to by nóżki nie złamała
+jak się nie ma co się pragnie to się rucha co popadnie
